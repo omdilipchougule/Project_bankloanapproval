@@ -1,0 +1,1001 @@
+Applicant_ID,Applicant_Income,Coapplicant_Income,Employment_Status,Age,Marital_Status,Dependents,Credit_Score,Existing_Loans,DTI_Ratio,Savings,Collateral_Value,Loan_Amount,Loan_Term,Loan_Purpose,Property_Area,Education_Level,Gender,Employer_Category,Loan_Approved
+1.0,1717217.5,133845.5,Salaried,51.0,Married,0.0,637.0,4.0,0.53,1872389.5,4404067.0,1603733.5,84.0,Personal,Urban,Not Graduate,Female,Private,No
+2.0,275990.0,258523.5,Salaried,46.0,Married,3.0,621.0,2.0,0.3,248970.0,4754748.0,3733295.5,,Car,Semiurban,Graduate,,Private,No
+3.0,713135.0,203229.0,Salaried,25.0,Single,2.0,674.0,4.0,0.2,1335946.0,666622.0,2696499.5,72.0,,Urban,,Female,Government,Yes
+4.0,1347526.0,788694.5,Salaried,40.0,Married,2.0,579.0,3.0,0.31,921864.5,1046446.0,2684533.5,60.0,Business,Rural,Graduate,Female,Government,No
+5.0,1281906.0,407519.5,Self-employed,31.0,Single,2.0,721.0,1.0,0.29,905749.0,3631198.5,1229506.5,72.0,Car,,Graduate,Male,Private,Yes
+6.0,797572.5,466191.5,Salaried,53.0,Single,1.0,602.0,1.0,0.56,1883873.0,280911.5,945507.0,36.0,Home,Semiurban,Graduate,Male,Unemployed,No
+7.0,1819025.0,267112.0,Salaried,58.0,Married,0.0,687.0,0.0,0.48,1412277.5,867631.5,2522799.5,24.0,Home,Rural,Graduate,Male,Private,No
+8.0,620109.0,307449.0,Salaried,47.0,Married,2.0,636.0,4.0,,64751.5,1116698.0,3256585.5,84.0,Personal,Rural,Graduate,Female,,No
+9.0,1584819.5,,Salaried,54.0,Married,1.0,729.0,0.0,0.59,74980.5,4155869.0,3343821.5,36.0,Home,Semiurban,Graduate,Male,Private,No
+10.0,1289529.5,250803.5,Contract,35.0,Single,3.0,726.0,1.0,,291623.0,2865374.5,2140563.0,60.0,Personal,Rural,Graduate,Female,Government,Yes
+11.0,1739219.5,389184.5,Salaried,52.0,Married,2.0,688.0,1.0,0.13,1760546.0,3860386.0,1005047.5,12.0,Education,Urban,Not Graduate,Female,MNC,Yes
+12.0,996073.0,813302.0,Self-employed,41.0,,1.0,743.0,4.0,0.23,,3699134.5,1166202.5,84.0,Car,Semiurban,Graduate,Male,Government,Yes
+13.0,355602.5,125836.0,Contract,25.0,Married,2.0,735.0,3.0,0.32,1333340.5,1688074.5,1544772.0,36.0,Business,Rural,Graduate,Male,Private,No
+14.0,267208.5,711012.0,Self-employed,26.0,Single,0.0,767.0,3.0,0.18,1376090.0,3830760.5,2229343.0,72.0,Personal,Semiurban,Graduate,Male,Private,No
+15.0,427784.5,567130.5,Contract,58.0,Single,0.0,713.0,4.0,0.57,103641.0,,1877118.0,84.0,,Semiurban,,Male,MNC,No
+16.0,705511.5,125546.5,Salaried,42.0,Married,3.0,710.0,4.0,0.48,956122.0,2370136.5,880080.0,72.0,Personal,Urban,Not Graduate,Female,Private,
+17.0,680421.5,245206.5,Unemployed,38.0,,2.0,724.0,0.0,0.23,914337.5,1740184.5,851130.0,48.0,Personal,Urban,Graduate,Female,Private,Yes
+18.0,812530.0,197921.5,Salaried,34.0,Married,1.0,562.0,4.0,0.4,1242727.0,709371.5,1849905.0,48.0,Home,Urban,Graduate,Male,Private,No
+19.0,1888312.0,657068.5,Salaried,30.0,Married,3.0,589.0,3.0,0.46,1459080.0,2501376.5,1665493.5,48.0,Home,Rural,Not Graduate,Female,Private,No
+20.0,810214.0,833084.5,,33.0,Single,2.0,638.0,,0.57,191649.0,1866310.0,2229053.5,84.0,Car,Urban,Graduate,Male,Private,No
+21.0,1029269.0,868114.0,Unemployed,51.0,Married,3.0,617.0,0.0,0.54,1044612.5,1437946.5,1027628.5,12.0,Business,Rural,Graduate,Male,MNC,No
+22.0,458085.5,7141.0,Contract,50.0,Married,1.0,591.0,0.0,0.36,887124.5,,3016107.5,60.0,Car,Urban,Graduate,Male,Business,No
+23.0,211238.5,673666.5,Salaried,23.0,Married,3.0,696.0,0.0,0.49,1681995.0,3724514.0,1235682.5,84.0,,Urban,Graduate,Male,Government,No
+24.0,482982.5,528337.5,Salaried,50.0,Single,3.0,759.0,0.0,0.38,209984.0,2062977.0,940296.0,24.0,Home,Urban,,Female,Private,Yes
+,376253.5,794388.0,Unemployed,26.0,Single,3.0,778.0,,0.38,1806673.0,4277266.0,3213932.5,72.0,Home,Urban,Graduate,Female,Government,No
+26.0,315265.5,,Salaried,49.0,,2.0,643.0,4.0,0.16,969535.5,2202130.0,2591700.5,72.0,Business,Rural,,Male,Government,No
+27.0,1921508.0,559314.0,Contract,28.0,Single,1.0,568.0,1.0,0.16,1629306.0,2418290.0,1127023.5,84.0,Personal,Urban,Graduate,Male,Government,
+28.0,1292521.0,689106.5,,53.0,Married,0.0,735.0,4.0,0.36,1796540.5,3149953.0,2974998.5,84.0,Car,Urban,Not Graduate,Male,Private,Yes
+29.0,536154.0,156523.0,Salaried,37.0,Married,,572.0,2.0,0.23,444672.0,2448977.0,1156552.5,60.0,Business,Urban,Not Graduate,Male,Unemployed,No
+30.0,568385.0,775956.5,Salaried,31.0,Married,0.0,603.0,0.0,0.11,1148929.0,786475.0,2826195.5,12.0,Car,Rural,Not Graduate,Female,Government,No
+31.0,1045867.0,32906.5,Salaried,33.0,Married,,757.0,2.0,0.46,698081.0,,1292231.5,84.0,Personal,Semiurban,Graduate,Female,Unemployed,No
+,1592443.0,200141.0,Salaried,31.0,Married,2.0,614.0,3.0,0.12,637865.0,2321693.5,565586.5,48.0,Car,Urban,Graduate,Female,,No
+33.0,1218505.5,,Contract,51.0,Single,2.0,689.0,3.0,0.4,1015566.0,3331662.5,3412626.0,60.0,Education,Rural,Not Graduate,Male,Private,No
+34.0,1041428.0,62242.5,Salaried,48.0,Married,1.0,573.0,4.0,0.37,1638956.0,1755624.5,1723779.5,24.0,Business,Urban,Graduate,Male,,No
+35.0,1211557.5,411379.5,Contract,26.0,Married,1.0,583.0,4.0,0.58,1294161.5,4242815.5,3136153.5,48.0,Home,Urban,Not Graduate,Male,MNC,No
+36.0,1182414.5,849296.5,Salaried,36.0,Married,3.0,602.0,1.0,0.34,885870.0,2682796.5,2778621.0,24.0,Car,Rural,Graduate,Male,Private,No
+37.0,1006784.5,592124.0,Unemployed,24.0,Married,0.0,798.0,1.0,0.13,1469212.5,4734579.5,860683.5,36.0,Business,Urban,Graduate,Male,MNC,Yes
+38.0,1180484.5,834339.0,Salaried,55.0,Single,1.0,685.0,3.0,0.38,972044.5,2532739.0,2053713.0,24.0,Business,Rural,Graduate,Male,MNC,Yes
+39.0,1256044.0,955350.0,Salaried,46.0,Married,3.0,567.0,0.0,0.52,432609.5,1235875.5,,48.0,Car,,Not Graduate,Male,Business,No
+,445058.0,286508.5,Salaried,32.0,Married,1.0,606.0,2.0,0.6,569446.5,1692127.5,639216.0,36.0,Home,Semiurban,Not Graduate,Female,Business,No
+41.0,1716445.5,292202.0,Contract,31.0,Single,2.0,661.0,1.0,0.32,,529978.0,3349129.0,48.0,Home,Urban,Graduate,Female,Business,Yes
+42.0,1848843.5,737549.5,Self-employed,57.0,Married,1.0,554.0,1.0,0.26,1750317.0,3025950.5,885484.0,72.0,Car,Rural,Graduate,Male,Business,No
+43.0,1370879.0,258716.5,Contract,45.0,Married,0.0,703.0,0.0,0.55,1818832.0,608143.0,3332048.5,48.0,Business,Semiurban,Not Graduate,Female,Private,No
+44.0,,350198.5,Salaried,38.0,Married,1.0,707.0,0.0,0.2,1005047.5,3118301.0,1345306.5,36.0,Home,Urban,Graduate,Male,Business,Yes
+45.0,1596206.5,407712.5,Salaried,39.0,Married,0.0,731.0,4.0,,432513.0,,257558.5,,Car,,Not Graduate,,MNC,No
+46.0,497168.0,295965.5,Self-employed,43.0,Single,2.0,562.0,2.0,,934699.0,458085.5,2050239.0,,Car,Urban,Graduate,Female,Private,No
+47.0,345952.5,573306.5,Salaried,58.0,Single,0.0,632.0,,0.12,714100.0,4536079.0,2057669.5,12.0,Car,Rural,Graduate,Male,Unemployed,No
+48.0,573499.5,133749.0,Salaried,38.0,Married,1.0,578.0,1.0,0.27,656779.0,3972905.0,3367271.0,12.0,Business,Urban,Graduate,Female,Private,No
+49.0,291526.5,276569.0,Unemployed,46.0,Single,3.0,552.0,1.0,0.23,1014794.0,1031199.0,677526.5,12.0,Home,Urban,Graduate,Male,Private,No
+50.0,1317514.5,462042.0,Unemployed,26.0,Married,2.0,639.0,,0.44,713714.0,3613828.5,3657639.5,12.0,Business,Rural,Graduate,Male,Private,No
+51.0,1235682.5,529785.0,Unemployed,24.0,Married,1.0,653.0,0.0,0.57,708117.0,1822981.5,937111.5,60.0,Education,Urban,Graduate,Male,Private,No
+52.0,1487740.5,397966.0,Contract,49.0,Married,2.0,672.0,4.0,0.23,960175.0,3492914.0,859236.0,12.0,Home,Rural,Graduate,Female,MNC,Yes
+53.0,963938.5,804810.0,Salaried,54.0,Married,2.0,735.0,2.0,0.51,1206250.0,2888052.0,3478921.5,36.0,Business,Urban,Graduate,Female,Unemployed,No
+54.0,1128278.0,371525.0,Salaried,37.0,Married,1.0,799.0,4.0,,1114092.5,723171.0,2117403.0,84.0,Home,Urban,Graduate,Female,MNC,Yes
+55.0,1446535.0,522547.5,Self-employed,36.0,Single,1.0,625.0,1.0,0.37,505756.5,3543769.5,2436721.5,12.0,Education,Rural,Not Graduate,Female,Unemployed,No
+56.0,,741023.5,Contract,22.0,Single,3.0,679.0,4.0,0.14,453067.5,2883130.5,2514597.0,48.0,Personal,Rural,Graduate,Male,Private,Yes
+57.0,740637.5,658033.5,Salaried,54.0,Married,,752.0,1.0,0.57,1112645.0,2700166.5,3497642.5,84.0,Car,Urban,Graduate,Male,Private,No
+58.0,208536.5,900152.0,Salaried,,Married,2.0,657.0,1.0,0.48,1381108.0,1353509.0,394974.5,12.0,Business,Urban,Graduate,Female,Government,No
+59.0,607660.5,808477.0,Salaried,33.0,Married,1.0,705.0,1.0,0.43,1830798.0,1970723.0,2501087.0,84.0,Education,Urban,Graduate,Male,MNC,No
+60.0,289017.5,911153.0,Self-employed,28.0,Married,0.0,631.0,1.0,0.51,1381687.0,892046.0,791975.5,24.0,Education,Urban,Not Graduate,Female,Private,No
+61.0,1306031.0,128634.5,Contract,50.0,Married,1.0,,1.0,0.42,1753019.0,3230916.5,,,Home,Urban,Graduate,Male,Unemployed,No
+62.0,929198.5,400475.0,Contract,52.0,Married,2.0,778.0,3.0,0.58,1920736.0,2281646.0,2699491.0,36.0,Home,Urban,Not Graduate,Male,Business,No
+63.0,291044.0,652919.0,Salaried,56.0,Single,1.0,763.0,4.0,0.46,1092766.0,4231332.0,2815098.0,84.0,Car,Rural,Graduate,Male,,No
+64.0,1016048.5,261611.5,Unemployed,50.0,Married,3.0,753.0,3.0,0.56,310537.0,822276.5,3211809.5,72.0,Home,Rural,,Female,Private,No
+65.0,1858783.0,468314.5,,21.0,Married,0.0,551.0,3.0,0.36,387544.0,168489.0,3859517.5,60.0,Business,Urban,Graduate,Female,Government,No
+66.0,1087362.0,599458.0,Salaried,59.0,Married,1.0,676.0,0.0,0.16,273770.5,1697531.5,1378020.0,48.0,Business,,Not Graduate,Male,MNC,Yes
+67.0,1368852.5,721723.5,Salaried,37.0,Married,3.0,778.0,0.0,0.36,1574108.0,2578287.0,3599739.5,,Business,Urban,Not Graduate,Male,MNC,Yes
+68.0,803941.5,521872.0,Salaried,40.0,Married,2.0,684.0,0.0,0.16,678781.0,4818824.0,2745714.5,36.0,Personal,,Graduate,Male,Private,Yes
+69.0,1020101.5,962780.5,Salaried,44.0,Single,1.0,575.0,2.0,0.4,,260164.0,377604.5,24.0,Business,Semiurban,Not Graduate,Male,Unemployed,No
+70.0,888572.0,744497.5,Unemployed,42.0,Married,2.0,767.0,,0.34,1387573.5,1159158.0,2582822.5,12.0,Home,Rural,Graduate,Female,MNC,Yes
+71.0,702134.0,862903.0,Salaried,49.0,Single,3.0,637.0,4.0,0.41,409063.5,1417392.0,322310.0,,Home,Rural,Not Graduate,Male,Private,No
+72.0,1780232.0,170033.0,Contract,42.0,Married,2.0,753.0,3.0,0.11,1170352.0,2263600.5,2622773.5,24.0,Business,Semiurban,Graduate,Male,Private,Yes
+73.0,1757844.0,685246.5,Salaried,29.0,Married,3.0,565.0,4.0,0.2,1530104.0,,2786244.5,12.0,Education,Urban,Graduate,Male,Government,No
+74.0,965579.0,740541.0,Salaried,,Married,3.0,700.0,0.0,0.35,927461.5,3849867.5,3769000.5,60.0,Education,,Graduate,Male,Government,Yes
+75.0,440812.0,590773.0,Salaried,30.0,Single,3.0,717.0,2.0,0.58,400475.0,2891140.0,154110.5,36.0,Education,Rural,Not Graduate,Female,Business,No
+76.0,388605.5,46416.5,Salaried,56.0,Married,1.0,737.0,2.0,0.29,1072018.5,3520899.0,2906483.5,36.0,,Urban,Not Graduate,Male,Private,No
+77.0,453067.5,14764.5,Salaried,57.0,Single,2.0,622.0,3.0,0.31,139539.0,2138343.5,1546412.5,84.0,Personal,Rural,Not Graduate,Male,Business,No
+,1681223.0,735040.5,Unemployed,48.0,Married,2.0,581.0,4.0,0.46,1151824.0,763315.0,785992.5,84.0,Business,Rural,Not Graduate,Female,Business,No
+79.0,700397.0,147066.0,Self-employed,48.0,Single,0.0,564.0,1.0,0.4,1064974.0,259874.5,3538655.0,24.0,Car,Rural,Graduate,Male,Private,No
+80.0,843024.0,204580.0,Self-employed,41.0,Married,0.0,778.0,4.0,0.25,624162.0,4803480.5,838971.0,72.0,Education,Urban,,Female,Government,Yes
+81.0,,226099.5,Salaried,44.0,Single,0.0,690.0,0.0,0.31,,1530297.0,562595.0,84.0,Business,Rural,Not Graduate,Male,Private,No
+,1542649.0,495624.0,Salaried,22.0,Married,0.0,554.0,1.0,0.21,402887.5,2780165.0,2405745.0,48.0,Car,Rural,Graduate,Male,Private,No
+83.0,1415269.0,555840.0,Salaried,28.0,Single,2.0,752.0,2.0,0.58,1485135.0,1938878.0,2388568.0,60.0,Home,Semiurban,Graduate,Male,Government,No
+84.0,761578.0,119660.0,Self-employed,47.0,Married,3.0,623.0,3.0,0.17,490220.0,2242949.5,1108688.5,,Education,Rural,Graduate,Male,Unemployed,No
+85.0,536636.5,5790.0,Salaried,42.0,Married,3.0,601.0,3.0,0.29,1492951.5,4699550.0,3251278.0,36.0,,Semiurban,Not Graduate,Male,Private,No
+86.0,789756.0,881045.0,,57.0,Married,1.0,626.0,2.0,0.11,1437174.5,,1618112.0,48.0,Home,Urban,Not Graduate,Male,Private,No
+87.0,1002828.0,158163.5,Self-employed,47.0,Single,3.0,718.0,0.0,0.21,1664432.0,,304940.0,12.0,Education,Urban,Not Graduate,Male,Private,Yes
+88.0,1453965.5,596852.5,Salaried,49.0,Married,2.0,730.0,2.0,0.49,1544868.5,2755557.5,2039334.5,60.0,Personal,Urban,Not Graduate,Male,Private,No
+89.0,1666072.5,769105.0,Salaried,23.0,Single,2.0,659.0,0.0,0.2,599940.5,617407.0,3540585.0,48.0,Education,Urban,Not Graduate,Female,Government,Yes
+90.0,429811.0,,Salaried,33.0,Married,,727.0,1.0,0.14,547348.0,699818.0,2303455.0,12.0,Personal,Semiurban,Not Graduate,Female,Business,No
+91.0,1335270.5,405589.5,Unemployed,30.0,Married,1.0,692.0,2.0,0.34,144943.0,1131076.5,2460364.0,24.0,,Semiurban,Not Graduate,Male,Private,Yes
+92.0,1547763.5,807029.5,Self-employed,56.0,Married,0.0,655.0,0.0,0.1,136065.0,1731113.5,3625698.0,48.0,Personal,Urban,,Male,Unemployed,Yes
+93.0,1251122.5,931225.0,Salaried,29.0,Single,3.0,797.0,1.0,0.14,363805.0,1141112.5,325012.0,60.0,Business,Urban,Graduate,Female,Private,Yes
+94.0,1135033.0,342478.5,Salaried,47.0,Single,2.0,676.0,2.0,0.5,974360.5,2436721.5,3638050.0,12.0,Business,Urban,Graduate,Female,MNC,No
+95.0,680904.0,405010.5,Unemployed,54.0,Single,,556.0,3.0,0.49,386096.5,3566157.5,2914589.5,48.0,Personal,Semiurban,Not Graduate,Male,MNC,No
+96.0,1635482.0,676368.5,Self-employed,21.0,Married,0.0,589.0,2.0,0.56,1917165.5,,1211268.0,24.0,Home,Urban,Graduate,,Government,No
+97.0,975615.0,643365.5,Salaried,52.0,Single,2.0,705.0,4.0,0.53,57707.0,3474.0,637672.0,48.0,Personal,Urban,Graduate,Male,Private,No
+98.0,1522094.5,224073.0,Contract,45.0,Single,3.0,709.0,2.0,0.44,,2741758.0,2266302.5,12.0,Car,Urban,Graduate,Male,Government,No
+99.0,,,Salaried,49.0,Married,1.0,,4.0,0.13,1874512.5,1753501.5,1048183.0,,Personal,Urban,Graduate,Female,Business,No
+100.0,241443.0,394685.0,Self-employed,27.0,Single,2.0,692.0,1.0,0.49,616731.5,3768421.5,3792353.5,60.0,Business,Semiurban,Graduate,,MNC,No
+101.0,859815.0,671640.0,Self-employed,23.0,Single,3.0,789.0,2.0,0.52,1587425.0,3161436.5,1101258.0,36.0,Business,Urban,Graduate,Female,Government,
+102.0,1417102.5,289886.0,Salaried,40.0,Single,2.0,777.0,1.0,0.5,1438622.0,1466993.0,2157161.0,12.0,Car,Urban,Graduate,Male,Government,No
+103.0,212879.0,495624.0,Unemployed,40.0,Single,0.0,634.0,1.0,0.35,1118435.0,777790.0,708696.0,12.0,Car,Urban,Graduate,Male,MNC,No
+104.0,1917262.0,31748.5,Contract,50.0,Married,2.0,747.0,0.0,0.22,1570923.5,778272.5,1832824.5,12.0,Education,Urban,Graduate,Female,Unemployed,Yes
+105.0,1730631.0,351260.0,Self-employed,55.0,Married,2.0,614.0,1.0,0.52,265375.0,2882744.5,2864313.0,12.0,Home,Rural,Graduate,Male,Business,No
+106.0,1857335.5,770263.0,Salaried,55.0,Single,1.0,681.0,1.0,0.46,956894.0,3536532.0,2838547.5,48.0,Home,Urban,Graduate,Male,MNC,No
+107.0,1037857.5,396325.5,Salaried,59.0,Married,0.0,560.0,2.0,,656779.0,572438.0,1961169.5,60.0,Home,Urban,Graduate,,Government,No
+108.0,1387959.5,129406.5,Salaried,47.0,Single,0.0,657.0,2.0,0.18,620398.5,2554355.0,1833210.5,24.0,Business,Semiurban,Graduate,Male,Business,Yes
+,1623130.0,811275.5,Contract,46.0,Single,1.0,,3.0,0.21,783869.5,803652.0,451523.5,60.0,Home,Urban,Graduate,Male,,No
+110.0,923891.0,32617.0,Salaried,34.0,Single,2.0,738.0,0.0,0.21,1738447.5,611134.5,2942188.5,12.0,Education,Rural,Not Graduate,Male,Business,Yes
+111.0,808091.0,568867.5,Self-employed,37.0,Single,3.0,714.0,1.0,0.5,622618.0,4500567.0,1012092.0,72.0,Education,Urban,Graduate,Female,,No
+112.0,354927.0,261322.0,Contract,38.0,Married,0.0,700.0,0.0,0.19,1655747.0,1087362.0,482114.0,48.0,Home,Urban,Graduate,Female,Government,Yes
+113.0,295193.5,168875.0,Salaried,49.0,Married,0.0,770.0,4.0,0.13,1491504.0,488965.5,646067.5,72.0,Car,Rural,Graduate,Male,Government,No
+114.0,1756107.0,540786.0,Self-employed,40.0,Married,2.0,634.0,1.0,0.6,387833.5,4669056.0,3011186.0,48.0,Education,Semiurban,Graduate,Female,Private,No
+115.0,1149701.0,233626.5,Salaried,47.0,Married,,789.0,0.0,0.11,1198433.5,,,12.0,Car,Rural,Graduate,Male,Private,Yes
+116.0,1236840.5,686983.5,Unemployed,38.0,Married,0.0,786.0,3.0,0.52,89648.5,1644842.5,1470177.5,48.0,Business,Urban,Graduate,Male,MNC,No
+117.0,1246876.5,858946.5,Salaried,24.0,Married,2.0,786.0,3.0,0.28,1871714.0,,324819.0,12.0,Education,Urban,Graduate,Female,Government,Yes
+118.0,1137638.5,513283.5,Salaried,21.0,Single,3.0,790.0,1.0,0.52,604476.0,2197305.0,2747065.5,60.0,Car,Urban,Graduate,Male,Private,No
+119.0,1767108.0,637768.5,Salaried,21.0,Single,0.0,768.0,4.0,0.38,769394.5,4127305.0,749226.0,84.0,Home,Rural,Graduate,Male,MNC,Yes
+120.0,1278818.0,519845.5,Salaried,46.0,,3.0,780.0,3.0,0.55,935760.5,761095.5,,36.0,Business,Rural,,Female,MNC,No
+121.0,452874.5,385324.5,Contract,40.0,Married,3.0,,3.0,0.56,1074624.0,3202063.0,3177069.5,48.0,Personal,Urban,Graduate,Female,Government,No
+,1537341.5,837620.0,Contract,43.0,Single,2.0,754.0,4.0,,1853089.5,3123705.0,3008387.5,12.0,Personal,Rural,Not Graduate,Male,Private,Yes
+123.0,543005.5,776246.0,Self-employed,30.0,Married,3.0,700.0,0.0,0.14,114256.0,3823137.0,1668678.0,72.0,Home,Rural,Graduate,Male,,
+124.0,1752150.5,794967.0,Salaried,31.0,Married,2.0,672.0,3.0,0.23,1631911.5,2404587.0,252251.0,12.0,Business,Urban,Graduate,Male,MNC,Yes
+125.0,1174694.5,470244.5,,25.0,Married,1.0,,2.0,0.43,88394.0,3425460.5,2117113.5,72.0,Business,,Graduate,Male,Private,No
+126.0,1180195.0,463779.0,Salaried,21.0,Married,2.0,771.0,3.0,0.54,344891.0,2704509.0,,48.0,Business,Urban,Not Graduate,Male,Private,No
+127.0,1708725.5,829128.0,Self-employed,,Married,3.0,738.0,0.0,0.33,320283.5,1151148.5,2339739.0,24.0,Business,Urban,Graduate,Male,Government,Yes
+128.0,1302171.0,570604.5,Contract,42.0,Single,1.0,617.0,0.0,0.4,1716735.0,4608454.0,3154392.0,72.0,Personal,Semiurban,Graduate,Female,Business,No
+129.0,319029.0,687466.0,Salaried,54.0,Married,2.0,653.0,1.0,0.19,1700812.5,3538172.5,2794833.0,12.0,,Urban,Graduate,Male,Private,No
+130.0,846884.0,304650.5,Salaried,49.0,Married,3.0,629.0,2.0,0.5,502379.0,3371420.5,2968726.0,48.0,Business,Urban,Graduate,Male,Government,No
+131.0,1107241.0,37635.0,Self-employed,24.0,Married,0.0,708.0,,0.58,1883390.5,1308829.5,3229855.0,12.0,Car,Rural,Not Graduate,Male,Government,No
+132.0,919259.0,,Contract,25.0,Married,0.0,602.0,4.0,0.23,1658063.0,2754689.0,3811846.5,24.0,Business,Semiurban,Graduate,Male,MNC,No
+133.0,726645.0,851130.0,Contract,31.0,Single,2.0,,2.0,,1728025.5,1243692.0,,36.0,Education,Semiurban,Graduate,Female,Government,Yes
+134.0,554682.0,741699.0,Contract,41.0,Single,2.0,702.0,2.0,0.14,475552.0,3603117.0,2226448.0,,Education,Rural,,Male,Government,Yes
+,1500092.5,408388.0,Salaried,55.0,Single,0.0,593.0,4.0,0.38,1554132.5,3308309.5,2821853.0,84.0,Education,Urban,Graduate,Female,Unemployed,No
+136.0,256979.5,772675.5,Salaried,32.0,Married,3.0,689.0,3.0,0.35,278692.0,1636447.0,3679738.0,24.0,Business,Semiurban,Graduate,Female,Private,No
+137.0,385807.0,146776.5,Contract,46.0,Single,3.0,639.0,4.0,0.17,259585.0,1219181.0,1820086.5,60.0,Car,Rural,Graduate,Female,Private,No
+138.0,964421.0,870237.0,Self-employed,39.0,Single,3.0,,4.0,0.32,394781.5,1857721.5,575140.0,48.0,,Urban,Graduate,Male,MNC,No
+139.0,1918323.5,144750.0,,27.0,Single,2.0,789.0,3.0,0.27,1347140.0,4493619.0,1908866.5,24.0,Home,Semiurban,Not Graduate,Female,Private,Yes
+140.0,511836.0,650120.5,Contract,27.0,Married,1.0,646.0,3.0,0.36,66585.0,1923052.0,3100159.0,36.0,Personal,Urban,Graduate,Male,MNC,No
+141.0,1525472.0,317871.0,Contract,46.0,Married,1.0,769.0,3.0,0.39,144267.5,3594142.5,2275277.0,12.0,Business,Urban,Not Graduate,Male,Private,Yes
+142.0,828452.5,,,25.0,Married,1.0,558.0,3.0,0.1,1069702.5,1587907.5,1822209.5,48.0,Education,Semiurban,Graduate,Male,,No
+143.0,1898637.5,233433.5,Self-employed,41.0,Single,1.0,561.0,3.0,0.48,1667134.0,2619396.0,2970463.0,72.0,Education,Rural,Graduate,Male,Unemployed,No
+144.0,1317128.5,880659.0,Salaried,,Married,1.0,618.0,4.0,0.46,1034480.0,2703254.5,1734973.5,24.0,Car,Urban,Graduate,Male,Government,No
+145.0,350874.0,293553.0,Self-employed,24.0,Married,2.0,731.0,1.0,0.28,566744.5,2111034.0,3352989.0,36.0,Business,Urban,Not Graduate,Male,Business,No
+146.0,1841413.0,433960.5,Self-employed,43.0,Single,2.0,793.0,1.0,0.13,434539.5,2601833.0,166945.0,24.0,Personal,Rural,Graduate,Male,Private,Yes
+147.0,650120.5,141469.0,Contract,40.0,Single,1.0,731.0,0.0,0.48,1130980.0,2710106.0,101904.0,60.0,Business,Urban,Graduate,Female,Private,No
+148.0,1597557.5,343636.5,Contract,35.0,Single,2.0,577.0,1.0,0.58,1347526.0,4083783.5,3132100.5,84.0,Business,Urban,Graduate,Male,MNC,No
+149.0,1532130.5,,Contract,49.0,Married,2.0,605.0,1.0,0.22,86560.5,2040299.5,,84.0,Education,Rural,Not Graduate,Male,Private,No
+150.0,275411.0,520328.0,Salaried,28.0,Single,1.0,648.0,4.0,0.26,1649571.0,2517781.5,260646.5,48.0,Personal,Semiurban,Graduate,Female,Government,No
+151.0,758007.5,742374.5,Contract,39.0,,3.0,746.0,3.0,0.19,356567.5,1368273.5,,12.0,,Rural,Graduate,Male,Private,Yes
+152.0,906328.0,904591.0,Contract,59.0,Married,2.0,,3.0,,259199.0,3165875.5,1553650.0,36.0,Education,Rural,Graduate,Female,Private,Yes
+153.0,1539078.5,311019.5,Self-employed,48.0,Married,3.0,659.0,4.0,0.18,557577.0,986423.0,187885.5,24.0,Personal,Rural,Not Graduate,Female,MNC,Yes
+154.0,751831.5,688817.0,Contract,47.0,Married,2.0,775.0,1.0,0.28,,2311078.5,2075232.5,48.0,,Rural,Not Graduate,Male,MNC,Yes
+155.0,668841.5,257365.5,Contract,24.0,Married,2.0,626.0,4.0,0.45,1621103.5,1555194.0,728864.5,24.0,Education,Urban,Graduate,Male,Business,No
+156.0,212493.0,770070.0,Salaried,35.0,Single,1.0,652.0,0.0,0.38,932479.5,4710840.5,3331662.5,48.0,Car,,,Female,Business,No
+157.0,1297635.5,12545.0,Self-employed,55.0,Married,2.0,655.0,3.0,0.29,403370.0,3624926.0,1531069.0,84.0,Education,Urban,Not Graduate,Female,Government,Yes
+158.0,1417392.0,287859.5,Salaried,57.0,Single,0.0,658.0,,0.31,411283.0,3606591.0,3037048.0,60.0,Business,Urban,Not Graduate,Female,Government,Yes
+159.0,616538.5,,Salaried,,Married,0.0,661.0,0.0,0.38,242697.5,1704865.5,641821.5,24.0,Personal,Urban,Graduate,Male,Business,Yes
+160.0,417555.5,687659.0,Self-employed,23.0,Married,1.0,607.0,0.0,0.1,1084274.0,846787.5,798344.5,60.0,Car,Rural,Not Graduate,Female,Private,No
+161.0,965386.0,794195.0,Contract,44.0,Married,3.0,627.0,4.0,0.14,1361036.0,2861707.5,1064684.5,72.0,Education,Urban,Graduate,Male,Private,No
+162.0,943480.5,742471.0,Salaried,47.0,Married,3.0,624.0,1.0,0.54,638444.0,4596488.0,437627.5,72.0,Car,Urban,Graduate,Male,Unemployed,No
+163.0,212010.5,640760.0,Salaried,56.0,Married,3.0,,,0.14,1676784.0,1369624.5,1898830.5,84.0,Education,Rural,Not Graduate,Male,Private,No
+164.0,379245.0,527662.0,Self-employed,54.0,Married,0.0,715.0,2.0,0.45,421705.0,1416234.0,1784092.0,36.0,Education,Semiurban,Graduate,Male,Private,No
+165.0,1329191.0,88780.0,Salaried,49.0,Married,3.0,617.0,0.0,0.56,1752150.5,2969884.0,184122.0,60.0,Home,Rural,Not Graduate,Female,Government,No
+166.0,1648895.5,729926.0,Salaried,44.0,Married,3.0,,2.0,0.24,1924692.5,4171212.5,542040.5,48.0,Home,Urban,Graduate,Female,Business,Yes
+,1094213.5,838006.0,Salaried,44.0,Married,1.0,582.0,1.0,0.29,368244.0,1659703.5,3033091.5,36.0,Home,Urban,Graduate,Female,Government,No
+168.0,1311338.5,899669.5,Salaried,24.0,Single,3.0,620.0,1.0,0.38,169454.0,4710358.0,2359714.5,24.0,Car,Rural,Not Graduate,Male,Private,No
+169.0,1708822.0,820443.0,Salaried,23.0,Married,0.0,605.0,2.0,0.54,228994.5,1453869.0,3481623.5,24.0,Business,Urban,Graduate,Male,Unemployed,No
+170.0,1837649.5,861745.0,Salaried,54.0,Single,0.0,654.0,3.0,,248584.0,1823367.5,1642430.0,,Education,Rural,Graduate,Female,Business,No
+171.0,464261.5,312756.5,Salaried,43.0,Single,0.0,749.0,1.0,0.47,403756.0,23739.0,2659733.0,12.0,Personal,Urban,Not Graduate,Male,MNC,No
+172.0,1567449.5,52592.5,Contract,43.0,,1.0,650.0,2.0,0.14,231310.5,2046668.5,2448494.5,12.0,Home,Semiurban,Graduate,Female,Private,No
+173.0,824689.0,419389.0,Self-employed,25.0,Single,,600.0,0.0,0.43,1223041.0,3790906.0,3007326.0,24.0,Car,Urban,Graduate,Female,Private,No
+174.0,384649.0,964614.0,Contract,51.0,Married,2.0,623.0,2.0,0.31,996459.0,1621200.0,278402.5,84.0,Car,Urban,Not Graduate,Female,Private,No
+175.0,997617.0,367665.0,Salaried,26.0,Single,3.0,720.0,2.0,0.34,1017689.0,4449615.0,197728.5,84.0,Car,Semiurban,Graduate,Male,Private,Yes
+176.0,1294161.5,695379.0,Salaried,57.0,Single,1.0,670.0,4.0,0.12,437627.5,,208536.5,48.0,Personal,Urban,Not Graduate,Female,Private,Yes
+177.0,473911.5,868982.5,Contract,30.0,Married,0.0,692.0,1.0,0.2,1408803.5,1939746.5,175147.5,12.0,Personal,Urban,Not Graduate,Female,Private,Yes
+178.0,360331.0,,Salaried,27.0,Married,0.0,715.0,3.0,0.5,,1591381.5,3622031.0,60.0,Home,Semiurban,Graduate,Male,Government,No
+179.0,1030620.0,,Salaried,59.0,Married,1.0,692.0,3.0,,1651887.0,2625475.5,2750057.0,24.0,Personal,Urban,,Female,Business,Yes
+180.0,748743.5,26151.5,Self-employed,58.0,Single,1.0,554.0,4.0,0.25,60988.0,4033507.0,2512570.5,72.0,Home,Urban,Not Graduate,Male,MNC,No
+181.0,423152.5,338811.5,Self-employed,41.0,Single,1.0,770.0,,0.29,1281520.0,2016560.5,3571175.5,60.0,Personal,Urban,Graduate,Male,Private,No
+182.0,1265211.5,170901.5,Salaried,40.0,Married,,632.0,2.0,0.53,1422989.0,2845978.0,1441903.0,48.0,Personal,Urban,Graduate,Female,Government,No
+183.0,650024.0,912311.0,Salaried,,Married,0.0,731.0,4.0,0.47,411862.0,137126.5,2728827.0,72.0,Personal,Urban,Graduate,Female,Private,No
+184.0,366893.0,420836.5,,42.0,Married,2.0,600.0,0.0,0.24,1861002.5,3089447.5,894748.0,60.0,Home,Rural,Graduate,Female,Government,No
+185.0,979957.5,682158.5,Salaried,,,2.0,559.0,1.0,0.16,1741535.5,1251605.0,3342470.5,12.0,Education,Rural,Graduate,Male,Government,No
+186.0,976580.0,88780.0,Self-employed,48.0,Single,3.0,689.0,1.0,0.23,1478476.5,702809.5,3791871.0,84.0,Home,Urban,Not Graduate,Male,Government,Yes
+187.0,831444.0,790335.0,Contract,32.0,Married,0.0,795.0,1.0,0.56,984975.5,2749092.0,843506.5,12.0,Education,Urban,Not Graduate,Female,MNC,No
+188.0,1568800.5,330995.0,,58.0,Married,0.0,,2.0,0.39,539531.5,1538692.5,549471.0,72.0,Car,Semiurban,Graduate,Male,MNC,No
+189.0,1590899.0,427977.5,Salaried,56.0,Married,1.0,644.0,0.0,0.37,1565809.0,24607.5,3021029.0,36.0,Car,Semiurban,Graduate,Male,Business,No
+190.0,1799339.0,362840.0,Contract,25.0,Single,1.0,695.0,4.0,0.4,,1063333.5,283131.0,84.0,,Urban,Graduate,,MNC,No
+191.0,1551237.5,197825.0,Self-employed,33.0,Married,3.0,629.0,4.0,0.28,827198.0,1494495.5,2176654.0,24.0,Education,Semiurban,Graduate,Male,Business,No
+,1081572.0,112422.5,Salaried,43.0,Single,2.0,781.0,1.0,0.5,1310373.5,4033410.5,1921025.5,72.0,Education,Rural,Not Graduate,Female,MNC,
+193.0,1772801.5,826715.5,Salaried,50.0,Married,1.0,585.0,0.0,0.36,1878469.0,1866889.0,,48.0,Education,Urban,Not Graduate,Female,Government,No
+194.0,1335077.5,196184.5,Contract,57.0,Married,1.0,574.0,0.0,0.16,,3382325.0,2910247.0,24.0,Car,Urban,Not Graduate,Male,Government,No
+195.0,,624065.5,Salaried,45.0,Married,0.0,764.0,0.0,0.16,772675.5,843796.0,2054774.5,,Home,,Graduate,Male,Business,Yes
+196.0,390728.5,13992.5,Salaried,47.0,Married,0.0,753.0,3.0,0.37,1534639.5,2388954.0,3370938.0,84.0,Business,Semiurban,Graduate,Male,Private,
+,716319.5,423442.0,Salaried,,Married,1.0,647.0,3.0,0.57,,1723586.5,3318345.5,48.0,Education,Rural,Graduate,Male,Business,No
+198.0,1600838.5,755788.0,Contract,56.0,Single,0.0,713.0,1.0,0.25,411186.5,2426589.0,392369.0,48.0,Education,Rural,Graduate,Male,Unemployed,Yes
+199.0,883747.0,832119.5,Contract,59.0,Single,3.0,650.0,0.0,0.53,230538.5,4119295.5,2147704.0,12.0,Business,Urban,Graduate,,Business,No
+200.0,1181932.0,858464.0,Contract,36.0,Single,1.0,744.0,0.0,0.48,1923920.5,4448939.5,3484132.5,60.0,Home,Rural,Not Graduate,Female,Private,No
+201.0,907100.0,788694.5,Salaried,42.0,Married,0.0,558.0,4.0,0.22,1345113.5,2120684.0,,12.0,Education,Rural,Not Graduate,Female,Private,No
+202.0,1145841.0,253988.0,Salaried,41.0,Single,3.0,,4.0,0.12,,57031.5,333890.0,12.0,Home,Semiurban,Not Graduate,Male,MNC,No
+203.0,1655071.5,433671.0,Self-employed,41.0,Married,0.0,602.0,1.0,0.15,907003.5,605730.5,754630.0,84.0,Education,Urban,Not Graduate,Female,Unemployed,No
+,304361.0,777404.0,Salaried,28.0,Married,0.0,695.0,0.0,0.46,52496.0,218090.0,3590765.0,36.0,Personal,Rural,Graduate,,,No
+205.0,627153.5,724811.5,Salaried,36.0,Married,0.0,,1.0,0.2,216063.5,4237025.5,1658931.5,12.0,Education,,Graduate,Male,MNC,Yes
+206.0,800467.5,883457.5,Self-employed,51.0,Married,1.0,712.0,4.0,0.29,1018943.5,33485.5,1939167.5,24.0,Personal,Rural,Graduate,,MNC,Yes
+207.0,1368659.5,176402.0,Unemployed,30.0,Single,2.0,612.0,4.0,,253505.5,2387506.5,1112548.5,48.0,Home,Rural,Graduate,Male,Private,No
+208.0,1435341.0,881045.0,Contract,,Married,0.0,670.0,3.0,0.46,638637.0,3590861.5,3201387.5,84.0,Education,Urban,Graduate,Male,MNC,No
+209.0,727513.5,463682.5,Contract,54.0,Married,3.0,796.0,1.0,0.16,1169869.5,4232104.0,1802137.5,12.0,Car,Rural,,Female,Private,Yes
+210.0,1122970.5,77779.0,Unemployed,29.0,Single,1.0,775.0,1.0,0.3,,4008803.0,615091.0,72.0,Car,Urban,Graduate,Female,Government,Yes
+211.0,1697049.0,931707.5,Salaried,37.0,Married,1.0,654.0,0.0,0.34,773447.5,662858.5,2603184.0,,Business,Semiurban,Graduate,Male,Government,Yes
+212.0,439750.5,722399.0,Self-employed,31.0,Married,3.0,755.0,0.0,0.37,302045.0,2709913.0,1364703.0,60.0,Car,Urban,Graduate,Female,Business,Yes
+213.0,732628.0,791493.0,Unemployed,52.0,Married,,553.0,3.0,0.51,1590320.0,2130720.0,1274186.0,48.0,Personal,Rural,Graduate,Female,,No
+214.0,1783513.0,180262.0,Salaried,30.0,Single,2.0,642.0,2.0,0.19,1431191.5,2796473.5,810021.0,84.0,Car,Semiurban,Graduate,Male,Government,No
+215.0,405300.0,760227.0,Contract,,Single,0.0,718.0,2.0,0.5,261322.0,1874223.0,3338224.5,72.0,Car,Urban,Graduate,Male,MNC,No
+216.0,1560598.0,549085.0,Self-employed,37.0,Married,3.0,722.0,2.0,0.45,520810.5,3436654.5,1220918.0,84.0,Car,Rural,Graduate,Female,MNC,No
+217.0,478736.5,755305.5,Self-employed,24.0,Married,1.0,727.0,1.0,0.38,1112452.0,2218824.5,3352410.0,84.0,Education,Urban,Not Graduate,Female,,No
+218.0,1563975.5,,Self-employed,45.0,Married,2.0,,1.0,0.45,1625060.0,1195249.0,139249.5,72.0,Business,Urban,Graduate,Female,Government,No
+219.0,1348008.5,875834.0,Unemployed,41.0,Single,1.0,577.0,4.0,0.31,,3284184.5,2403139.5,60.0,Home,Rural,Graduate,Female,Private,No
+220.0,469858.5,343926.0,Contract,57.0,Married,3.0,719.0,1.0,0.17,421512.0,4363054.5,3331373.0,72.0,Business,Rural,Graduate,Male,Government,No
+221.0,1866310.0,134038.5,Salaried,58.0,Married,0.0,629.0,1.0,0.43,1078773.5,1248517.0,2815870.0,24.0,Personal,Semiurban,Not Graduate,Male,MNC,No
+222.0,1543228.0,,Contract,21.0,Married,2.0,625.0,1.0,0.36,1165334.0,1076843.5,2134483.5,84.0,Education,Semiurban,Graduate,Male,Private,No
+223.0,742953.5,79516.0,Salaried,45.0,Married,1.0,665.0,3.0,0.42,1767976.5,219441.0,1096529.5,,Education,Rural,Not Graduate,Male,Unemployed,No
+224.0,577745.5,,Salaried,56.0,,1.0,618.0,1.0,0.27,1345982.0,1819411.0,3779326.0,84.0,Car,Rural,Not Graduate,Female,MNC,No
+225.0,1490539.0,90324.0,Salaried,37.0,Single,1.0,647.0,0.0,0.55,1691645.0,3070147.5,3140206.5,72.0,Car,Semiurban,Not Graduate,Female,Business,No
+226.0,310537.0,617793.0,Salaried,44.0,Married,,783.0,,0.39,1334016.0,1011513.0,430872.5,60.0,Personal,Urban,Graduate,Female,Business,Yes
+227.0,,371042.5,Salaried,22.0,Married,2.0,550.0,4.0,0.14,414853.5,1829736.5,358111.5,60.0,Education,Urban,Graduate,Male,Government,No
+228.0,1283064.0,173314.0,Unemployed,,Single,0.0,716.0,3.0,0.32,1362580.0,1934246.0,2528107.0,12.0,Home,Urban,Graduate,Male,Business,Yes
+229.0,632557.5,,Contract,52.0,Single,0.0,645.0,0.0,0.48,783387.0,3265174.0,2266592.0,12.0,Business,Semiurban,Graduate,Male,Government,No
+230.0,1075589.0,696151.0,Self-employed,59.0,Married,0.0,767.0,3.0,0.5,1037954.0,2120587.5,3813197.5,12.0,Education,Rural,Graduate,Male,MNC,No
+231.0,969825.0,70059.0,Salaried,,Married,,566.0,3.0,0.35,767464.5,1419129.0,2374672.0,72.0,Home,Rural,Not Graduate,Female,Business,No
+232.0,1424050.5,264024.0,Unemployed,21.0,Married,3.0,661.0,4.0,0.55,461656.0,576491.0,2788657.0,48.0,Home,Urban,Not Graduate,Male,MNC,No
+233.0,1874898.5,184604.5,Unemployed,43.0,Single,3.0,640.0,3.0,0.23,1465352.5,1054552.0,281683.5,24.0,Business,Semiurban,Graduate,Female,MNC,No
+234.0,858174.5,944542.0,Contract,59.0,Married,,637.0,1.0,,870816.0,2047054.5,3104501.5,72.0,Home,Urban,Graduate,Female,Private,No
+235.0,1579994.5,738900.5,Salaried,37.0,Single,,712.0,3.0,0.55,1416041.0,188175.0,2084303.5,84.0,Personal,Rural,Not Graduate,,Private,No
+236.0,1598522.5,237969.0,Salaried,54.0,Single,0.0,723.0,4.0,0.55,1722042.5,1879530.5,1733622.5,12.0,Home,Urban,Graduate,Male,MNC,No
+237.0,524574.0,872456.5,Salaried,49.0,Married,3.0,719.0,4.0,0.44,1129822.0,1004661.5,1489381.0,60.0,Personal,Urban,Graduate,Female,Private,No
+238.0,1037761.0,705608.0,Salaried,29.0,Married,0.0,795.0,,0.53,111843.5,2093567.5,3633128.5,72.0,Home,Rural,Graduate,,Government,No
+239.0,1223330.5,790721.0,Salaried,33.0,Married,0.0,716.0,0.0,0.14,37249.0,4454054.0,289403.5,60.0,Car,Semiurban,Not Graduate,Female,Government,Yes
+240.0,761867.5,762929.0,Unemployed,26.0,,1.0,639.0,1.0,0.53,694028.0,1714901.5,1529428.5,84.0,,Urban,Graduate,Male,Private,No
+241.0,1795768.5,470534.0,Salaried,26.0,Married,,598.0,0.0,0.26,1036892.5,412441.0,1148639.5,60.0,Personal,Urban,Not Graduate,Male,Private,No
+242.0,1701874.0,703195.5,Salaried,40.0,Single,1.0,739.0,2.0,0.19,956315.0,3382614.5,621942.5,60.0,Home,Urban,Graduate,Male,MNC,Yes
+243.0,,86078.0,Salaried,23.0,Single,0.0,587.0,,0.22,328968.5,679842.5,3512214.0,36.0,Home,Urban,Graduate,Male,Business,No
+244.0,1076071.5,,,37.0,Married,2.0,700.0,3.0,0.31,1647544.5,2867401.0,1837360.0,48.0,Home,Urban,Graduate,Female,Government,Yes
+245.0,733400.0,186534.5,Salaried,32.0,Single,3.0,699.0,4.0,0.23,1271870.0,3318249.0,120239.0,24.0,Personal,Rural,Graduate,Male,Unemployed,Yes
+246.0,964614.0,133170.0,Salaried,21.0,Married,1.0,681.0,2.0,0.26,1672924.0,4221585.5,3102764.5,,Home,Semiurban,Graduate,Female,Private,Yes
+247.0,1062175.5,124485.0,Salaried,37.0,Married,3.0,726.0,1.0,0.17,592703.0,826233.0,599458.0,12.0,Business,Urban,Graduate,Female,Private,Yes
+248.0,1442289.0,158260.0,Contract,23.0,Married,1.0,608.0,0.0,0.25,575815.5,2678743.5,418713.5,36.0,Business,Rural,Not Graduate,Female,MNC,No
+249.0,640953.0,722785.0,Unemployed,46.0,Single,1.0,750.0,4.0,0.39,695282.5,1160509.0,2329703.0,72.0,Personal,Urban,Graduate,Male,MNC,Yes
+250.0,1284608.0,885773.5,Salaried,35.0,Single,1.0,617.0,0.0,0.32,1544579.0,,1968021.0,72.0,Car,Urban,Not Graduate,Female,Government,No
+251.0,934023.5,117537.0,Salaried,56.0,Single,2.0,748.0,1.0,0.27,1168518.5,3048338.5,3487124.0,24.0,Business,Urban,Not Graduate,,Unemployed,Yes
+252.0,985072.0,484044.0,Contract,52.0,Married,0.0,764.0,1.0,0.47,1257781.0,4116979.5,1272449.0,48.0,Education,Rural,Not Graduate,Male,,No
+253.0,1227094.0,664016.5,Salaried,52.0,Married,1.0,679.0,2.0,0.55,239706.0,,,60.0,Business,Urban,Not Graduate,Female,Private,No
+254.0,1877214.5,921285.5,,24.0,Married,2.0,598.0,3.0,0.48,178911.0,2590446.0,3857394.5,84.0,Education,Urban,,Male,Private,No
+255.0,525346.0,941068.0,Contract,38.0,Married,,,0.0,0.27,1122391.5,2262635.5,520617.5,12.0,Personal,Urban,Graduate,Female,MNC,Yes
+256.0,1231050.5,927365.0,Salaried,39.0,Single,0.0,781.0,2.0,0.47,1892847.5,2400823.5,1571985.0,48.0,Car,Urban,Not Graduate,Male,Private,No
+257.0,1585881.0,92061.0,Self-employed,55.0,Single,1.0,796.0,4.0,0.18,250610.5,1154719.0,2234071.5,24.0,Education,,Not Graduate,Female,Private,Yes
+258.0,295290.0,885387.5,Self-employed,34.0,Single,2.0,675.0,3.0,0.17,755498.5,1711138.0,452681.5,36.0,Education,Semiurban,Not Graduate,Male,MNC,Yes
+259.0,523030.0,703581.5,Salaried,53.0,Married,0.0,,2.0,0.27,789949.0,510388.5,817355.0,12.0,Business,Rural,Graduate,Female,Government,Yes
+260.0,222046.5,93991.0,Salaried,34.0,Married,2.0,788.0,0.0,0.5,384359.5,1931158.0,467156.5,24.0,Education,,Graduate,Female,Government,No
+261.0,1396162.0,398834.5,Contract,54.0,Married,0.0,708.0,1.0,0.22,645006.0,1815358.0,3678194.0,72.0,Personal,Urban,Graduate,Male,Private,Yes
+262.0,1832535.0,518205.0,Salaried,24.0,Married,0.0,660.0,4.0,0.13,1001959.5,3454796.5,1811884.0,12.0,Personal,Urban,Not Graduate,Male,Business,Yes
+263.0,,383298.0,Salaried,44.0,Married,3.0,717.0,0.0,0.17,1644360.0,4017102.0,681290.0,24.0,Personal,Urban,Graduate,Female,Government,Yes
+264.0,211335.0,510967.5,Contract,49.0,Single,3.0,597.0,3.0,0.53,1158386.0,3916066.5,2758356.0,72.0,Business,Urban,Graduate,,Private,
+265.0,1205478.0,878632.5,Self-employed,39.0,,3.0,600.0,,0.42,1167939.5,4499602.0,511450.0,84.0,Car,Rural,Graduate,Male,Private,No
+266.0,1868626.0,794002.0,Salaried,26.0,Married,0.0,592.0,1.0,0.23,609108.0,2228378.0,418617.0,72.0,Business,Urban,Graduate,Male,Government,No
+267.0,480087.5,955639.5,Contract,53.0,Married,,647.0,1.0,0.38,766017.0,2422632.5,625995.5,,Personal,Urban,Graduate,Female,Unemployed,No
+268.0,781843.0,291430.0,Salaried,39.0,Married,2.0,732.0,4.0,0.36,960561.0,1379371.0,,36.0,Business,Rural,Not Graduate,,Unemployed,Yes
+269.0,1888312.0,867245.5,,21.0,Married,2.0,765.0,4.0,0.43,1898058.5,349426.5,2946048.5,60.0,Personal,Urban,Not Graduate,Female,Private,No
+270.0,368244.0,389474.0,Contract,25.0,Single,,726.0,1.0,0.22,943480.5,3130653.0,3016783.0,24.0,Home,,,Female,Business,No
+271.0,247908.5,489062.0,Self-employed,,Married,,673.0,1.0,0.53,343829.5,2093953.5,1185020.0,84.0,Home,Urban,Graduate,Female,MNC,No
+,,504984.5,Salaried,36.0,Married,0.0,767.0,3.0,0.25,486456.5,4815929.0,2876086.0,48.0,Education,Rural,Not Graduate,Male,MNC,Yes
+,375867.5,918294.0,Unemployed,26.0,Married,3.0,629.0,1.0,0.45,1089678.0,226485.5,1053297.5,84.0,Car,Urban,Graduate,Male,,No
+274.0,565779.5,30590.5,Salaried,33.0,Single,1.0,734.0,2.0,0.11,774509.0,2845399.0,1173247.0,84.0,Home,Semiurban,Not Graduate,Male,Private,Yes
+275.0,1439104.5,231214.0,Contract,55.0,,0.0,660.0,0.0,0.29,1343569.5,4598225.0,928426.5,84.0,Personal,Urban,Graduate,Female,MNC,Yes
+276.0,912407.5,,Salaried,39.0,Married,2.0,754.0,1.0,0.28,1894102.0,1651115.0,1114285.5,,,Rural,Graduate,Female,Private,Yes
+277.0,580351.0,264892.5,Salaried,32.0,Married,3.0,692.0,4.0,0.37,1681416.0,475069.5,2333080.5,48.0,Business,Urban,Graduate,,Private,Yes
+278.0,1263474.5,153531.5,Salaried,36.0,Single,3.0,576.0,2.0,0.14,1800400.5,1506461.5,333793.5,72.0,Education,Rural,Not Graduate,Female,Business,No
+,483368.5,596659.5,Unemployed,30.0,Single,1.0,745.0,4.0,0.5,350198.5,4645027.5,2872612.0,24.0,Business,Urban,Graduate,Male,Unemployed,No
+280.0,1788917.0,379245.0,Unemployed,45.0,Married,1.0,757.0,2.0,0.21,204001.0,1852703.5,3767456.5,,Home,Urban,Graduate,,Private,Yes
+281.0,1228348.5,126608.0,Salaried,40.0,Single,3.0,741.0,1.0,0.44,161830.5,874869.0,3781931.5,48.0,Business,Semiurban,Graduate,Male,Business,No
+282.0,328968.5,914530.5,Salaried,51.0,Single,1.0,771.0,0.0,0.5,298571.0,3478535.5,1778881.0,24.0,Home,Semiurban,Graduate,Male,Private,No
+283.0,1375028.5,416011.5,Contract,24.0,Single,2.0,785.0,4.0,0.38,220406.0,2581761.0,3787335.5,48.0,Home,Urban,Graduate,Female,MNC,Yes
+284.0,,705801.0,Salaried,43.0,Single,1.0,707.0,2.0,0.47,487518.0,3529487.5,1584433.5,60.0,Car,Semiurban,Graduate,Female,Government,No
+285.0,974264.0,229959.5,Salaried,22.0,Single,1.0,713.0,3.0,0.43,1734394.5,2341090.0,3475640.5,24.0,Education,Urban,Graduate,Male,Private,No
+286.0,922540.0,,,42.0,Married,3.0,744.0,1.0,0.28,1824236.0,4509734.5,3529680.5,60.0,Personal,Semiurban,Graduate,Male,Private,Yes
+287.0,1402434.5,206413.5,Self-employed,57.0,Single,3.0,763.0,0.0,0.5,1162535.5,4717981.5,378376.5,12.0,Home,Rural,Graduate,,Government,No
+288.0,901599.5,164436.0,Unemployed,28.0,Married,0.0,662.0,1.0,0.25,66971.0,1639631.5,547734.0,24.0,Education,Urban,Graduate,Female,Private,Yes
+289.0,888379.0,668166.0,Salaried,27.0,Single,0.0,635.0,3.0,0.39,1504242.0,2176364.5,2067512.5,48.0,Personal,Semiurban,Graduate,Female,Private,No
+290.0,752796.5,34933.0,Salaried,34.0,Married,3.0,663.0,0.0,0.47,1259807.5,2332791.0,3491852.5,,Business,,Graduate,Male,Business,No
+291.0,1825876.5,251286.0,Self-employed,23.0,Single,1.0,798.0,3.0,0.29,1551720.0,2118850.5,,60.0,Education,Urban,Graduate,Female,Government,
+292.0,770649.0,956122.0,Contract,36.0,Single,1.0,791.0,1.0,0.25,646936.0,61181.0,2554741.0,,Education,Rural,Graduate,Female,Business,Yes
+293.0,1220435.5,413599.0,Self-employed,39.0,Married,0.0,796.0,2.0,0.33,711012.0,2883516.5,238258.5,48.0,Education,Urban,Graduate,Female,Private,Yes
+294.0,1034094.0,360717.0,Self-employed,38.0,Single,0.0,673.0,1.0,0.51,190201.5,1232401.5,800178.0,,Business,Semiurban,,Female,Business,
+295.0,1382169.5,238258.5,Salaried,36.0,Married,0.0,598.0,1.0,0.56,1408224.5,1765757.0,2548468.5,84.0,Business,Rural,Graduate,Male,,No
+296.0,654270.0,462717.5,Contract,28.0,Single,2.0,625.0,1.0,0.37,777307.5,1383810.0,2366759.0,72.0,Education,Urban,Graduate,Male,Private,No
+297.0,421512.0,593475.0,Salaried,53.0,,2.0,604.0,4.0,0.43,1104056.5,3218854.0,2360872.5,36.0,Car,Rural,Graduate,Female,Government,No
+298.0,1354763.5,53654.0,Salaried,,Married,0.0,762.0,3.0,0.55,1416330.5,3473903.5,3083657.5,48.0,Home,Rural,Not Graduate,,Private,No
+299.0,835207.5,,,31.0,Single,1.0,605.0,3.0,0.15,180262.0,612871.5,2681252.5,60.0,Business,Rural,Not Graduate,Female,MNC,No
+300.0,981694.5,270972.0,Salaried,25.0,Married,0.0,745.0,3.0,0.22,1742307.5,370367.0,2126184.5,24.0,Car,Urban,Graduate,Male,Business,Yes
+301.0,626767.5,496975.0,Salaried,47.0,Single,2.0,644.0,4.0,0.45,166752.0,190394.5,765341.5,12.0,Business,Urban,Graduate,Male,Government,No
+302.0,1244174.5,729636.5,Contract,32.0,Married,1.0,593.0,2.0,0.51,736488.0,4546501.0,201781.5,72.0,Education,Rural,Not Graduate,Male,Private,No
+,1486389.5,262383.5,Salaried,37.0,Married,2.0,708.0,1.0,,1162149.5,3648858.0,2583498.0,36.0,Car,Urban,Not Graduate,Female,Private,No
+304.0,1459176.5,627829.0,Contract,26.0,Married,1.0,735.0,2.0,0.31,617889.5,988835.5,1675529.5,24.0,Personal,Urban,Graduate,Male,Government,Yes
+305.0,1251219.0,361006.5,Salaried,53.0,Married,2.0,636.0,4.0,0.14,1518138.0,4288460.0,2845785.0,,Home,Rural,Graduate,Female,Business,No
+306.0,275314.5,942419.0,Contract,25.0,Married,1.0,795.0,3.0,0.32,1787759.0,3054707.5,,72.0,Home,Urban,Graduate,Male,Private,Yes
+307.0,,385807.0,Salaried,48.0,Married,1.0,730.0,1.0,0.22,901310.0,4153263.5,1105504.0,48.0,Business,Rural,Graduate,Female,Private,Yes
+308.0,1884838.0,231889.5,Salaried,34.0,,1.0,633.0,0.0,0.25,596756.0,644909.5,2250380.0,72.0,Home,Rural,Graduate,,Private,No
+309.0,1149025.5,847270.0,Unemployed,25.0,Married,1.0,756.0,0.0,0.49,24414.5,1085046.0,1392977.5,,Personal,Rural,Graduate,Male,Government,No
+310.0,653980.5,939813.5,Contract,53.0,Single,3.0,700.0,2.0,0.14,395843.0,2804097.0,2704412.5,84.0,Car,Urban,Not Graduate,Female,Private,Yes
+311.0,,28371.0,Salaried,39.0,Single,2.0,705.0,3.0,,341803.0,3816671.5,2809018.5,12.0,Car,Urban,Graduate,Male,Government,
+312.0,433381.5,,Salaried,,,2.0,565.0,0.0,0.31,1848843.5,3701933.0,2099261.0,72.0,Education,Urban,Graduate,Male,Private,No
+313.0,,953613.0,Contract,25.0,Single,,714.0,2.0,0.4,599458.0,2737801.5,511546.5,36.0,Car,Semiurban,Graduate,Female,Government,
+314.0,1601803.5,109624.0,Self-employed,22.0,Married,1.0,698.0,4.0,0.14,447470.5,368823.0,791975.5,72.0,Business,Urban,Graduate,Male,,Yes
+315.0,487421.5,199176.0,Contract,50.0,Single,1.0,756.0,2.0,,1112162.5,2786727.0,2790780.0,12.0,Personal,Semiurban,Graduate,Male,Business,
+316.0,1734973.5,676368.5,Contract,59.0,Single,2.0,694.0,2.0,0.14,1106951.5,3489150.5,2239089.5,24.0,Education,Rural,Graduate,Male,Private,Yes
+317.0,1774442.0,438399.5,Salaried,24.0,Single,3.0,791.0,2.0,0.58,1206250.0,570701.0,2175592.5,24.0,Business,Semiurban,Graduate,Male,Private,No
+318.0,277534.0,97175.5,Salaried,53.0,Married,1.0,586.0,1.0,0.5,1471335.5,1752826.0,2414044.0,72.0,Business,Urban,Graduate,Male,Government,No
+319.0,592703.0,525442.5,Self-employed,33.0,Single,1.0,,2.0,0.33,1016338.0,2622870.0,3097457.0,72.0,,Urban,Not Graduate,Male,Private,No
+320.0,1659993.0,516468.0,Salaried,40.0,Married,,696.0,2.0,0.21,1304487.0,355892.0,922154.0,48.0,Home,Semiurban,Graduate,Female,Private,Yes
+321.0,,910863.5,Salaried,27.0,Single,0.0,707.0,1.0,0.57,624934.0,1416909.5,2036343.0,12.0,,Urban,Graduate,Male,MNC,No
+322.0,876123.5,138477.5,Unemployed,35.0,Married,3.0,594.0,1.0,0.27,1884838.0,1262220.0,3849674.5,48.0,Home,Urban,Graduate,Female,MNC,No
+323.0,963745.5,55101.5,Self-employed,43.0,Single,1.0,695.0,4.0,0.18,1905199.5,2986964.5,282166.0,36.0,Car,Urban,Graduate,Male,Private,Yes
+324.0,,229863.0,Contract,34.0,Single,0.0,755.0,3.0,0.38,96886.0,956894.0,1976223.5,84.0,,Semiurban,Graduate,Male,MNC,Yes
+325.0,623872.5,910670.5,,43.0,Single,3.0,611.0,0.0,0.57,992599.0,2863830.5,1922473.0,24.0,Business,Rural,Graduate,Male,Government,
+326.0,1835333.5,490606.0,Self-employed,39.0,Married,1.0,713.0,0.0,0.1,455190.5,2640240.0,1897190.0,60.0,Personal,Rural,Graduate,Female,Private,Yes
+327.0,1487740.5,26730.5,Salaried,49.0,Single,2.0,649.0,2.0,0.22,315651.5,3648182.5,1056192.5,60.0,,Rural,Graduate,Female,Unemployed,No
+328.0,995011.5,681193.5,Salaried,40.0,Married,0.0,761.0,4.0,0.57,1226901.0,1298214.5,126029.0,12.0,Car,Urban,Not Graduate,Female,MNC,No
+329.0,1854151.0,182095.5,Salaried,49.0,,0.0,,2.0,0.19,20168.5,2190839.5,2312043.5,12.0,Business,Rural,Graduate,Male,Unemployed,No
+330.0,1553457.0,122072.5,,44.0,Married,1.0,568.0,0.0,0.16,534513.5,833760.0,504791.5,60.0,Home,Urban,Graduate,Female,Private,No
+331.0,692580.5,722881.5,Contract,38.0,,1.0,,1.0,0.39,1595820.5,2823879.5,3840314.0,,Personal,Semiurban,Graduate,Female,Private,No
+332.0,1569283.0,100360.0,Salaried,30.0,Married,0.0,593.0,3.0,0.53,1927780.5,3169928.5,1274475.5,24.0,Education,Urban,Not Graduate,Male,Government,No
+333.0,994722.0,879018.5,Salaried,28.0,Married,2.0,556.0,4.0,0.34,830479.0,,707924.0,36.0,Business,Urban,Graduate,Male,Business,No
+334.0,767078.5,779044.5,Salaried,46.0,Married,2.0,798.0,,0.6,1120944.0,1551527.0,1025795.0,36.0,Business,,Graduate,Male,Private,No
+335.0,303975.0,875930.5,Salaried,49.0,Married,3.0,721.0,,0.44,123906.0,2256459.5,1761704.0,48.0,Education,Urban,Not Graduate,Female,MNC,No
+336.0,379341.5,265568.0,Salaried,30.0,Married,1.0,666.0,4.0,0.14,303782.0,1499224.0,3368718.5,24.0,Personal,Rural,,Male,Government,No
+337.0,1081186.0,792554.5,Salaried,37.0,Single,2.0,617.0,4.0,0.6,74112.0,715065.0,3350383.5,84.0,,Urban,Graduate,Female,Government,No
+338.0,297316.5,440908.5,Salaried,22.0,Single,3.0,583.0,,0.3,541075.5,1536859.0,2992754.5,12.0,Car,Urban,Graduate,Male,Business,No
+339.0,1823464.0,613064.5,Salaried,26.0,Married,2.0,743.0,1.0,0.24,1890049.0,4657862.0,1491407.5,12.0,Home,Urban,,Male,Business,Yes
+340.0,1486775.5,227064.5,Salaried,25.0,Married,1.0,618.0,4.0,0.38,1850001.5,3304932.0,552173.0,84.0,Home,Rural,Not Graduate,Male,Private,No
+341.0,946182.5,717670.5,Contract,48.0,Married,3.0,604.0,,0.25,1794321.0,3006843.5,1332858.0,48.0,Personal,Urban,Not Graduate,Male,Unemployed,No
+342.0,698370.5,463103.5,Salaried,25.0,Married,3.0,559.0,3.0,0.14,714003.5,,3018134.0,48.0,Education,Rural,Not Graduate,Male,Private,No
+343.0,1827999.5,66199.0,Salaried,38.0,Single,3.0,773.0,0.0,0.1,34547.0,3509319.0,3645384.0,12.0,Business,,Not Graduate,Male,Private,Yes
+344.0,1425787.5,817934.0,Self-employed,46.0,Single,2.0,591.0,2.0,0.32,81928.5,4612700.0,1067290.0,12.0,Business,Urban,Graduate,Female,MNC,No
+345.0,1760546.0,464261.5,Salaried,40.0,Married,,590.0,0.0,0.52,723557.0,3933436.5,1356404.0,84.0,Business,Urban,Not Graduate,Male,Unemployed,No
+346.0,1465256.0,864061.0,Contract,47.0,Married,3.0,754.0,2.0,0.39,436373.0,2807185.0,738707.5,24.0,Car,Semiurban,Graduate,Male,MNC,
+347.0,515599.5,515889.0,,32.0,Married,0.0,780.0,1.0,,1826552.0,1984715.5,2274891.0,84.0,Car,Rural,Graduate,Male,MNC,No
+348.0,1495750.0,486649.5,Salaried,27.0,Single,1.0,746.0,1.0,0.24,1232594.5,4213479.5,1353605.5,48.0,Business,Urban,Graduate,Male,Business,Yes
+349.0,1125383.0,234302.0,Self-employed,23.0,Single,0.0,,,0.24,1757747.5,1482915.5,485395.0,84.0,Personal,Rural,Graduate,Male,Unemployed,Yes
+350.0,,494659.0,Salaried,30.0,Married,0.0,687.0,1.0,0.18,,3899758.0,2435949.5,84.0,,Semiurban,Not Graduate,Male,Private,Yes
+351.0,1652562.5,793230.0,Self-employed,54.0,Married,3.0,559.0,4.0,0.18,929102.0,4315094.0,3308888.5,,Car,Urban,Graduate,Male,MNC,
+352.0,977545.0,877957.0,Salaried,45.0,Single,3.0,651.0,0.0,,31748.5,3412915.5,2001313.5,24.0,Home,Semiurban,Graduate,Male,Business,Yes
+353.0,355023.5,753954.5,Contract,55.0,Single,2.0,768.0,1.0,0.5,564621.5,560954.5,3393712.0,72.0,Home,Urban,Graduate,Female,Private,No
+354.0,531329.0,930742.5,Salaried,36.0,Married,2.0,737.0,0.0,,678588.0,3533926.5,3617881.5,12.0,Personal,Semiurban,Not Graduate,Male,Government,No
+355.0,1474906.0,323854.0,Self-employed,22.0,Married,2.0,677.0,0.0,0.59,1478959.0,,2992754.5,60.0,Car,Rural,Graduate,Male,Government,No
+,892914.5,,Self-employed,44.0,Married,1.0,728.0,1.0,0.22,508169.0,3974835.0,731373.5,,Car,Urban,Graduate,Male,,Yes
+357.0,1103477.5,701169.0,Salaried,30.0,Married,2.0,698.0,0.0,0.54,420161.0,3890687.0,1856853.0,60.0,Education,Urban,Graduate,Male,Private,No
+358.0,1284415.0,631110.0,Salaried,58.0,Married,0.0,685.0,1.0,0.26,1455413.0,3572237.0,557866.5,72.0,Personal,Semiurban,Graduate,Female,MNC,Yes
+359.0,1476064.0,3667.0,Contract,,Married,2.0,742.0,1.0,0.16,455673.0,3836743.5,2069732.0,12.0,Personal,Rural,Graduate,Male,Private,Yes
+360.0,1471142.5,322503.0,Contract,46.0,Married,3.0,641.0,1.0,0.54,1714998.0,1592057.0,,48.0,Education,Rural,Graduate,Male,Government,No
+361.0,,876027.0,Salaried,,Married,2.0,662.0,2.0,0.42,859911.5,2507938.5,1162149.5,60.0,Education,Urban,Not Graduate,Female,MNC,No
+362.0,1202100.5,274446.0,Contract,47.0,Single,1.0,780.0,0.0,0.18,312177.5,3587291.0,2012314.5,48.0,Home,Urban,Graduate,,Government,Yes
+363.0,432223.5,105957.0,Unemployed,49.0,Married,,627.0,3.0,0.31,,2467312.0,2034123.5,60.0,Personal,Urban,Graduate,Female,Private,No
+364.0,622618.0,678105.5,Contract,58.0,Married,0.0,634.0,1.0,0.24,106150.0,100456.5,1746746.5,48.0,Personal,Urban,Graduate,Female,Private,
+365.0,760516.5,175919.5,Salaried,40.0,Married,1.0,579.0,0.0,0.47,855376.0,3830567.5,,84.0,Education,Rural,Graduate,Male,Business,No
+366.0,1550658.5,304457.5,Contract,47.0,Married,2.0,762.0,4.0,,840322.0,4744229.5,2800044.0,60.0,Business,Semiurban,Graduate,Male,Unemployed,Yes
+367.0,467928.5,298474.5,Salaried,40.0,Single,3.0,598.0,1.0,0.59,1825394.0,2904553.5,1923438.0,48.0,Business,Rural,Graduate,Male,Unemployed,No
+368.0,906135.0,545997.0,Unemployed,39.0,Married,1.0,558.0,1.0,0.13,1656422.5,2351126.0,,72.0,Home,Urban,Graduate,Male,Business,No
+369.0,1343473.0,364577.0,Salaried,40.0,Married,0.0,694.0,3.0,0.28,1393363.5,3921663.5,824978.5,24.0,Business,Rural,Not Graduate,Male,Private,Yes
+370.0,433188.5,279464.0,,55.0,Single,2.0,618.0,2.0,0.34,1921025.5,3777299.5,1389310.5,,Business,Semiurban,Graduate,Male,Private,No
+371.0,1140919.5,95342.0,Contract,22.0,Married,,607.0,2.0,0.35,1133875.0,2266013.0,2543933.0,24.0,Business,Rural,Graduate,Female,Private,
+,,397194.0,Salaried,50.0,Single,1.0,734.0,1.0,0.26,943866.5,354734.0,3350190.5,24.0,Car,Rural,Graduate,Male,Private,Yes
+373.0,1113610.0,622039.0,Unemployed,54.0,Married,1.0,611.0,0.0,0.46,,4418252.5,2317544.0,12.0,Home,Semiurban,Graduate,Female,Private,No
+374.0,1772126.0,403273.5,Unemployed,42.0,Married,0.0,772.0,4.0,0.54,1725902.5,2101866.5,1518138.0,84.0,Education,Rural,Graduate,Female,,No
+375.0,637961.5,162313.0,Self-employed,23.0,Married,2.0,601.0,4.0,,1156649.0,,2693411.5,72.0,Business,Urban,Graduate,Female,Business,No
+376.0,760227.0,542909.0,Salaried,26.0,Married,1.0,738.0,0.0,0.5,1207215.0,295772.5,1820569.0,24.0,Car,Urban,Not Graduate,Male,Private,No
+377.0,1770485.5,716416.0,Self-employed,35.0,Single,3.0,589.0,1.0,0.53,1878276.0,196474.0,2761926.5,36.0,Business,Semiurban,,Male,Business,No
+378.0,275121.5,90034.5,Salaried,47.0,Single,1.0,715.0,4.0,0.38,894362.0,3456051.0,1333919.5,84.0,Car,,,Female,Unemployed,No
+379.0,852384.5,347207.0,Salaried,30.0,Married,2.0,720.0,2.0,0.51,48443.0,1633166.0,2990149.0,24.0,Home,Urban,Not Graduate,Female,Business,No
+380.0,1345017.0,191070.0,Contract,29.0,Married,1.0,612.0,0.0,0.25,919741.5,3169446.0,1514085.0,48.0,Business,Urban,Graduate,Female,,No
+381.0,427205.5,294904.0,Salaried,53.0,Single,0.0,696.0,3.0,0.3,772868.5,4694532.0,,24.0,Car,,Not Graduate,,MNC,Yes
+382.0,579000.0,866956.0,Salaried,52.0,Single,1.0,777.0,1.0,0.26,1641175.5,1583275.5,2152239.5,48.0,Personal,Semiurban,Graduate,Male,Private,Yes
+383.0,680518.0,76331.5,Unemployed,26.0,Married,1.0,599.0,0.0,0.33,1113803.0,2076487.0,3621934.5,48.0,Personal,Urban,Graduate,Male,Private,No
+,457217.0,520135.0,Salaried,56.0,Married,2.0,710.0,4.0,0.24,1682381.0,1646193.5,2960041.0,36.0,Car,Rural,Graduate,Male,Private,No
+385.0,,640277.5,Salaried,22.0,Married,0.0,690.0,1.0,0.58,,2224518.0,3531417.5,24.0,Business,Semiurban,Not Graduate,Female,Private,No
+386.0,965193.0,217607.5,Unemployed,49.0,Single,2.0,627.0,2.0,0.26,1296477.5,411765.5,295097.0,24.0,Business,,Not Graduate,Male,Business,No
+387.0,727224.0,348365.0,Salaried,24.0,Married,1.0,797.0,1.0,0.15,397001.0,577842.0,1208083.5,60.0,Home,Urban,Graduate,,Unemployed,Yes
+388.0,,155075.5,Contract,21.0,Married,3.0,646.0,1.0,0.36,1309312.0,2699491.0,3099097.5,84.0,Home,Semiurban,Graduate,Female,Unemployed,No
+389.0,570604.5,499773.5,Unemployed,39.0,Single,1.0,739.0,2.0,0.13,324915.5,2319474.0,166945.0,60.0,Education,Urban,Graduate,Female,Private,Yes
+390.0,1876925.0,634294.5,Unemployed,46.0,Married,2.0,770.0,2.0,0.16,781167.5,837620.0,273288.0,12.0,Home,Rural,Graduate,Male,Unemployed,Yes
+391.0,1219374.0,94956.0,Self-employed,45.0,Married,3.0,592.0,1.0,0.21,496106.5,143302.5,2305288.5,48.0,Business,Rural,Graduate,Male,Private,No
+392.0,745559.0,557384.0,Salaried,30.0,Married,2.0,726.0,2.0,0.33,381271.5,1419804.5,499773.5,36.0,Education,Urban,Graduate,Female,,Yes
+393.0,518494.5,354734.0,Salaried,35.0,Married,,585.0,0.0,0.32,1436595.5,1934149.5,704353.5,60.0,Home,Semiurban,Graduate,Male,Private,No
+394.0,1366536.5,326170.0,Contract,42.0,Married,0.0,671.0,2.0,0.5,151794.5,233433.5,852095.0,24.0,Car,Urban,Graduate,Male,Private,No
+395.0,393913.0,840611.5,Contract,41.0,Married,3.0,657.0,2.0,0.47,1289143.5,4639720.0,3722005.0,12.0,Personal,Urban,Graduate,Male,Private,No
+396.0,1764116.5,847463.0,Self-employed,42.0,Married,1.0,559.0,1.0,0.31,1835237.0,3499379.5,2262056.5,36.0,Home,Urban,Not Graduate,Male,MNC,No
+397.0,1669932.5,101325.0,Salaried,56.0,Married,2.0,644.0,0.0,0.27,267112.0,1654010.0,734847.5,72.0,Home,Urban,Not Graduate,Male,Private,No
+398.0,1140340.5,,Salaried,54.0,Single,1.0,555.0,3.0,0.26,511643.0,4196206.0,749033.0,24.0,Car,Semiurban,Graduate,Female,Private,No
+399.0,1279686.5,612003.0,Salaried,50.0,Single,0.0,606.0,3.0,0.49,1326489.0,4362765.0,3793511.5,24.0,Business,Rural,,Female,Unemployed,No
+400.0,233240.5,92543.5,Contract,45.0,Married,0.0,678.0,4.0,0.13,116861.5,1250736.5,2480918.5,72.0,Car,Semiurban,Graduate,Female,,No
+401.0,1042972.0,584693.5,Salaried,48.0,Married,3.0,620.0,2.0,0.11,1490442.5,4156737.5,,48.0,Home,Urban,Not Graduate,Male,,
+402.0,508265.5,,Unemployed,21.0,Married,0.0,735.0,,0.5,1526147.5,625995.5,2357881.0,48.0,Business,Rural,Graduate,Female,Business,No
+403.0,1853668.5,545707.5,Contract,,Married,0.0,768.0,0.0,0.34,111940.0,3002115.0,2156099.5,60.0,Education,Rural,Graduate,Female,Private,Yes
+404.0,,431644.5,Salaried,27.0,Married,1.0,570.0,3.0,0.17,679456.5,4094688.0,1615313.5,60.0,Home,Semiurban,Not Graduate,Female,Private,No
+405.0,1287117.0,284289.0,Self-employed,,Single,0.0,641.0,4.0,0.22,1811015.5,1578740.0,160769.0,24.0,Car,Rural,Graduate,Female,Government,No
+406.0,232758.0,745462.5,Salaried,56.0,Married,0.0,676.0,0.0,0.57,1046639.0,4768065.0,3285246.0,84.0,Education,Urban,Not Graduate,Female,Government,No
+407.0,920899.5,50759.0,Self-employed,39.0,Married,2.0,629.0,2.0,0.53,567034.0,3555349.5,2787209.5,24.0,,Urban,Not Graduate,,Government,No
+408.0,925145.5,311116.0,Contract,21.0,Married,0.0,605.0,3.0,0.45,1922666.0,2401113.0,1453579.5,60.0,,Urban,Not Graduate,Female,Government,No
+409.0,263252.0,180937.5,Contract,30.0,Single,2.0,787.0,4.0,0.34,1243788.5,1688943.0,3343628.5,72.0,Car,Rural,Graduate,Male,Government,No
+410.0,1317900.5,170129.5,Contract,56.0,Married,0.0,764.0,1.0,0.36,1339613.0,4637114.5,3457402.0,60.0,Education,Semiurban,Graduate,Male,Business,Yes
+411.0,770842.0,,Salaried,29.0,Single,0.0,665.0,3.0,0.59,1422217.0,736391.5,1006398.5,24.0,Car,Urban,Graduate,Female,Business,No
+412.0,479315.5,559410.5,Salaried,,Married,3.0,697.0,4.0,0.58,105667.5,291140.5,3273859.0,36.0,Home,Urban,Not Graduate,Male,Government,No
+413.0,1594855.5,888572.0,Contract,52.0,Single,3.0,779.0,0.0,0.21,569446.5,1999962.5,3763210.5,24.0,Business,,Graduate,Male,Private,Yes
+414.0,1741632.0,685053.5,Salaried,26.0,Single,2.0,731.0,1.0,0.51,792747.5,2389533.0,3210458.5,36.0,Personal,Rural,Graduate,Female,Business,No
+415.0,1882329.0,493018.5,Salaried,58.0,Married,0.0,574.0,4.0,0.2,1245911.5,75656.0,3155936.0,36.0,Business,Urban,Graduate,,MNC,No
+416.0,1925657.5,641146.0,Salaried,37.0,Married,1.0,705.0,4.0,0.21,1362869.5,2703930.0,,24.0,Business,Urban,Graduate,Male,Business,Yes
+417.0,682544.5,11194.0,Self-employed,,Married,3.0,554.0,2.0,0.44,104123.5,3711293.5,2430545.5,84.0,Business,Urban,Graduate,Female,Government,No
+418.0,685536.0,234784.5,Salaried,47.0,Married,1.0,669.0,3.0,0.3,1207215.0,1521322.5,340259.0,84.0,Car,Rural,Graduate,Male,Private,Yes
+419.0,399799.5,527179.5,Self-employed,55.0,Single,3.0,,,0.57,1855791.5,3003755.5,2478699.0,12.0,Car,Rural,Not Graduate,Male,Business,No
+,902950.5,56259.5,Unemployed,41.0,Single,3.0,567.0,1.0,0.14,1770196.0,308414.0,849489.5,60.0,Personal,Rural,Graduate,Male,Private,No
+421.0,1355149.5,828549.0,Salaried,45.0,Single,0.0,724.0,4.0,0.36,142144.5,921768.0,3248962.0,84.0,,Urban,Not Graduate,Male,Unemployed,Yes
+422.0,524960.0,365542.0,Salaried,48.0,Single,3.0,747.0,2.0,0.56,471692.0,3985450.0,730891.0,48.0,Car,Urban,Graduate,Male,,No
+423.0,737646.0,402115.5,Salaried,35.0,Married,1.0,606.0,3.0,0.55,480473.5,4797401.0,939234.5,24.0,Car,Urban,Graduate,Male,Private,No
+424.0,1207987.0,816872.5,Contract,24.0,Married,3.0,642.0,,0.18,116958.0,3080376.5,796800.5,36.0,Car,Urban,Graduate,Female,Government,No
+425.0,1597268.0,134038.5,,49.0,Single,2.0,568.0,0.0,0.28,868596.5,457989.0,3575421.5,24.0,Home,Urban,Graduate,Female,MNC,No
+426.0,474201.0,806450.5,Salaried,29.0,,0.0,677.0,2.0,0.41,1278432.0,289403.5,1631718.5,60.0,Personal,,Graduate,Female,Private,No
+427.0,1503856.0,941743.5,Salaried,47.0,Single,0.0,646.0,1.0,0.18,40433.5,4252755.0,2426589.0,72.0,Car,Rural,Not Graduate,Female,Government,No
+428.0,1364896.0,593861.0,Contract,46.0,Married,2.0,742.0,0.0,0.58,1506172.0,4749730.0,1235393.0,84.0,Personal,Urban,Graduate,Male,Business,No
+429.0,1582310.5,523030.0,Salaried,39.0,Married,2.0,786.0,2.0,0.56,353093.5,1504917.5,858464.0,84.0,Education,Urban,Graduate,Female,MNC,No
+430.0,1040945.5,860780.0,Contract,48.0,Single,2.0,680.0,1.0,0.18,509809.5,,2811334.5,84.0,Home,Semiurban,Graduate,,Private,Yes
+431.0,1562431.5,197149.5,Unemployed,37.0,Married,3.0,719.0,1.0,0.16,1033997.5,598300.0,1401759.0,36.0,,Rural,Not Graduate,,Government,Yes
+432.0,263252.0,405010.5,Salaried,40.0,Single,0.0,570.0,,0.14,1559922.5,3682826.0,1184827.0,48.0,Home,Rural,Graduate,Male,Unemployed,No
+433.0,1905778.5,337364.0,Contract,59.0,Single,2.0,776.0,1.0,0.55,129310.0,2255880.5,2562171.5,48.0,Home,Semiurban,Graduate,Female,,No
+434.0,260357.0,75077.0,Salaried,43.0,Single,3.0,782.0,4.0,0.2,1428682.5,1294065.0,2537757.0,84.0,Education,Urban,Graduate,Female,Business,No
+435.0,886449.0,20554.5,Contract,52.0,Single,2.0,,2.0,0.31,1021356.0,4436201.5,3506617.0,,Personal,Rural,Not Graduate,Female,Unemployed,No
+,1593408.0,363033.0,Self-employed,53.0,Married,1.0,616.0,1.0,0.32,1426270.0,347207.0,2237931.5,72.0,Home,Rural,Graduate,Male,Government,No
+437.0,1536569.5,942612.0,Contract,25.0,Single,1.0,702.0,0.0,0.4,495720.5,1019426.0,3289878.0,84.0,Business,Urban,,Male,Government,No
+438.0,1812173.5,649541.5,Salaried,54.0,Married,0.0,676.0,0.0,0.14,1712392.5,4392294.0,2400051.5,12.0,Education,Urban,Graduate,Male,Government,Yes
+439.0,907100.0,300790.5,Salaried,31.0,Married,3.0,786.0,,0.21,57031.5,2981657.0,1034576.5,36.0,Business,Urban,Not Graduate,Female,Private,Yes
+440.0,595501.5,558831.5,Salaried,23.0,Single,1.0,779.0,2.0,0.57,50759.0,4798462.5,3803354.5,72.0,Education,Urban,Graduate,Male,Government,No
+441.0,613740.0,847559.5,Salaried,53.0,Married,1.0,786.0,1.0,,758007.5,1987707.0,3018423.5,36.0,Business,Urban,Not Graduate,Male,Government,No
+442.0,434443.0,262480.0,Salaried,31.0,Married,3.0,604.0,,0.49,1032067.5,3898986.0,1486486.0,84.0,Business,Urban,Graduate,Male,MNC,No
+443.0,1843246.5,859332.5,Salaried,36.0,Married,2.0,761.0,0.0,0.11,,1723683.0,529399.0,72.0,Home,Urban,Graduate,Female,MNC,Yes
+444.0,722399.0,880755.5,Salaried,38.0,Married,3.0,729.0,4.0,0.26,,990572.5,3493107.0,84.0,Home,,Graduate,Male,Business,Yes
+445.0,997327.5,583535.5,Salaried,50.0,Single,2.0,721.0,0.0,0.41,1599101.5,936532.5,2864795.5,72.0,Education,Urban,Not Graduate,Male,Private,No
+446.0,626381.5,775088.0,Contract,30.0,Married,1.0,658.0,0.0,0.24,1847203.0,2464996.0,1366054.0,84.0,Personal,Urban,Graduate,Female,Private,Yes
+447.0,1267045.0,,Salaried,38.0,Single,1.0,647.0,4.0,0.55,832312.5,1379757.0,151215.5,12.0,Home,Urban,Not Graduate,Female,Private,No
+448.0,931321.5,614512.0,Salaried,,Single,1.0,762.0,2.0,0.42,620591.5,3152655.0,306773.5,36.0,Home,Rural,Graduate,Male,Business,No
+449.0,305615.5,188078.5,Salaried,39.0,Single,0.0,733.0,1.0,0.14,1536859.0,4098451.5,291333.5,,Car,Urban,Not Graduate,Male,Private,Yes
+450.0,295483.0,649638.0,Salaried,56.0,,0.0,732.0,2.0,0.55,1129436.0,4449036.0,1632683.5,12.0,Home,Semiurban,Graduate,Female,Government,No
+451.0,1271291.0,755884.5,Unemployed,33.0,Single,0.0,661.0,3.0,0.58,42170.5,3950131.0,1997839.5,24.0,Personal,Semiurban,Graduate,Male,Private,No
+452.0,649348.5,88490.5,Salaried,23.0,Married,3.0,764.0,3.0,0.14,1040270.0,4717306.0,1901436.0,84.0,Car,Rural,Graduate,Female,MNC,Yes
+453.0,1095082.0,306291.0,Contract,30.0,Single,1.0,747.0,3.0,0.37,1661344.0,583825.0,1836395.0,60.0,Business,Rural,Graduate,Female,MNC,Yes
+454.0,707731.0,676851.0,Unemployed,58.0,Married,1.0,664.0,4.0,0.25,867342.0,4241368.0,473718.5,72.0,Business,Urban,Graduate,Male,Business,Yes
+455.0,1054166.0,8588.5,Contract,21.0,Single,3.0,666.0,0.0,0.3,,2029781.0,869947.5,48.0,Car,Urban,Graduate,Female,Private,Yes
+456.0,610845.0,164918.5,Self-employed,47.0,Single,0.0,754.0,2.0,0.19,559121.0,4388820.0,426530.0,12.0,,Semiurban,Graduate,Female,Government,Yes
+457.0,849296.5,293456.5,Contract,28.0,Married,3.0,790.0,1.0,0.39,,818706.0,1711910.0,12.0,Car,Urban,Graduate,Male,Private,Yes
+458.0,660639.0,10132.5,Unemployed,,,0.0,,3.0,0.58,1573046.5,3022669.5,,72.0,Education,Semiurban,Graduate,Male,Private,No
+459.0,842541.5,876027.0,Self-employed,29.0,Single,1.0,750.0,2.0,0.35,66006.0,2006814.0,1974872.5,12.0,Personal,Rural,Graduate,Female,Private,Yes
+460.0,1676012.0,831733.5,Self-employed,26.0,Married,2.0,630.0,3.0,,408484.5,,495141.5,24.0,Personal,Urban,Graduate,Male,Private,No
+461.0,1866020.5,182867.5,Self-employed,45.0,Single,0.0,615.0,3.0,0.41,1636736.5,2106305.5,1124418.0,12.0,Business,Urban,Graduate,Female,Private,No
+462.0,,587685.0,Self-employed,,Married,1.0,568.0,1.0,0.27,1254210.5,3412336.5,2171925.5,60.0,Business,,Graduate,Female,Private,No
+463.0,873904.0,821022.0,Self-employed,48.0,Married,1.0,760.0,4.0,0.53,772675.5,995397.5,2393779.0,60.0,Business,Urban,Graduate,Male,Private,No
+464.0,1304294.0,,Salaried,53.0,,2.0,797.0,0.0,0.32,1602961.5,4628912.0,1946501.5,84.0,Home,Urban,,Female,Business,Yes
+465.0,1302074.5,61181.0,Salaried,57.0,,1.0,684.0,4.0,0.2,224652.0,2559083.5,2083724.5,84.0,Business,Rural,Not Graduate,Female,Unemployed,Yes
+466.0,341803.0,185762.5,Salaried,29.0,Single,1.0,,2.0,0.2,1844597.5,878825.5,1010355.0,,Car,Rural,Graduate,Male,MNC,Yes
+467.0,1540526.0,198404.0,Salaried,38.0,Married,0.0,740.0,4.0,0.48,870333.5,373358.5,2154459.0,24.0,Business,Urban,Graduate,Male,Private,No
+,1888987.5,667490.5,Salaried,,Single,0.0,591.0,2.0,0.23,1622551.0,1490635.5,540110.5,60.0,Car,Urban,Graduate,Female,Government,No
+469.0,802204.5,303396.0,Salaried,22.0,Married,2.0,591.0,2.0,0.48,893107.5,2641205.0,3696336.0,72.0,Education,Semiurban,,Male,MNC,No
+470.0,1922666.0,929391.5,Self-employed,58.0,Single,2.0,,0.0,0.2,,769201.5,3067542.0,36.0,Home,Rural,Graduate,Male,Private,No
+471.0,1525375.5,53268.0,Salaried,56.0,,1.0,569.0,1.0,0.26,557963.0,3017458.5,,36.0,Home,Rural,Graduate,Female,MNC,No
+472.0,1117470.0,859525.5,Contract,57.0,Married,0.0,622.0,0.0,0.33,119081.0,2475321.5,3287851.5,36.0,Personal,Semiurban,Graduate,,Government,No
+473.0,1905778.5,519459.5,Salaried,35.0,Married,2.0,566.0,4.0,0.57,502282.5,3450550.5,585465.5,84.0,Education,Urban,Graduate,Female,Unemployed,No
+,,377411.5,Salaried,48.0,,2.0,576.0,2.0,0.57,137030.0,2262539.0,581316.0,72.0,Car,Urban,Graduate,Male,MNC,No
+475.0,916171.0,955832.5,Contract,38.0,Single,,724.0,3.0,0.2,1655168.0,3677422.0,840997.5,12.0,Education,Semiurban,Graduate,Male,Business,Yes
+476.0,609108.0,327038.5,Self-employed,54.0,Married,2.0,551.0,3.0,0.28,926014.0,930549.5,,72.0,Home,Rural,Graduate,Male,Business,No
+477.0,320766.0,897353.5,Salaried,42.0,Single,1.0,612.0,2.0,0.17,1880592.0,368919.5,1179809.0,12.0,Car,Urban,,Female,Private,
+478.0,496106.5,814653.0,Contract,31.0,,0.0,611.0,0.0,0.35,,1298311.0,3512503.5,36.0,Education,Urban,Graduate,Female,Private,No
+479.0,367665.0,234495.0,Contract,33.0,Single,,649.0,1.0,0.33,1899988.5,379438.0,1390758.0,48.0,Home,Rural,Not Graduate,Male,Government,No
+480.0,828742.0,44197.0,Salaried,24.0,Single,3.0,,0.0,0.55,1729473.0,986230.0,1309408.5,48.0,Car,,Not Graduate,Male,Private,No
+481.0,704546.5,19975.5,Salaried,42.0,Married,0.0,566.0,2.0,0.57,1709497.5,825461.0,325108.5,12.0,Car,Semiurban,Graduate,Female,Private,No
+482.0,1687302.5,86753.5,Unemployed,27.0,Married,2.0,618.0,2.0,,797186.5,234398.5,3186526.5,36.0,Home,Urban,Graduate,Male,Private,
+483.0,1323401.0,2026.5,Self-employed,44.0,Married,3.0,716.0,1.0,,1328322.5,2722072.0,147452.0,72.0,Car,Urban,Graduate,Male,MNC,Yes
+484.0,651182.0,829996.5,Self-employed,24.0,Single,2.0,759.0,4.0,0.55,573596.0,718346.0,3021801.0,48.0,Home,Urban,Graduate,Female,Private,
+485.0,1103477.5,86271.0,Contract,48.0,Single,0.0,666.0,4.0,0.5,687659.0,1014215.0,3709749.5,12.0,Business,Rural,Graduate,Male,Private,
+486.0,550918.5,49601.0,Salaried,35.0,Married,0.0,795.0,1.0,0.1,,4250342.5,1838035.5,72.0,Business,Semiurban,Graduate,Female,Government,Yes
+487.0,1458694.0,703871.0,Salaried,21.0,Single,0.0,748.0,4.0,0.26,507879.5,1016820.5,2002182.0,36.0,Car,Rural,Graduate,Female,Government,Yes
+488.0,,473236.0,Salaried,23.0,Married,1.0,630.0,3.0,0.31,1476450.0,689685.5,3484518.5,24.0,Car,Semiurban,Graduate,Male,Private,No
+489.0,1172475.0,759165.5,Contract,34.0,Married,2.0,588.0,4.0,0.21,,3898503.5,1439683.5,36.0,Home,Urban,Not Graduate,Male,Unemployed,
+490.0,823145.0,396518.5,Self-employed,58.0,Single,1.0,585.0,4.0,0.2,279078.0,347207.0,1568704.0,84.0,Car,Urban,Not Graduate,Male,Government,No
+491.0,1176142.0,692773.5,Self-employed,21.0,Married,0.0,717.0,4.0,0.12,115607.0,,569832.5,36.0,Personal,Semiurban,Graduate,Female,,Yes
+492.0,1609909.5,150540.0,Salaried,58.0,Married,3.0,722.0,3.0,0.42,1809954.0,648287.0,953806.0,72.0,,Semiurban,Graduate,Male,Private,No
+493.0,241636.0,122169.0,Salaried,58.0,Married,2.0,681.0,4.0,0.23,1763634.0,4119681.5,2885929.0,72.0,Car,Semiurban,Graduate,Female,Government,No
+494.0,310151.0,351067.0,Salaried,41.0,Married,1.0,779.0,3.0,0.13,181709.5,1329963.0,670675.0,60.0,Car,Rural,Not Graduate,Female,MNC,Yes
+495.0,340741.5,862806.5,Contract,49.0,Married,2.0,702.0,1.0,0.22,76910.5,4752046.0,227740.0,60.0,,Urban,Not Graduate,Female,Private,Yes
+,272419.5,330705.5,Self-employed,25.0,Married,3.0,746.0,0.0,0.5,792168.5,4921.5,3753367.5,72.0,Car,Urban,Not Graduate,Male,Private,No
+497.0,1863608.0,461270.0,Salaried,30.0,Single,1.0,707.0,1.0,0.53,794677.5,1611743.0,2214289.0,72.0,Personal,Semiurban,Graduate,Female,Private,No
+498.0,678298.5,185955.5,Contract,48.0,Married,0.0,753.0,0.0,0.34,1595917.0,982756.0,938945.0,24.0,Business,Urban,Not Graduate,Female,Unemployed,Yes
+499.0,1488802.0,227354.0,Salaried,41.0,Married,,745.0,1.0,0.31,1472300.5,1203162.0,2235036.5,24.0,Education,Urban,Graduate,Male,Private,Yes
+500.0,1786890.5,462235.0,Unemployed,27.0,Married,2.0,765.0,0.0,0.59,776825.0,2129948.0,2773217.0,36.0,Home,Rural,Not Graduate,Male,MNC,No
+501.0,396132.5,29529.0,Salaried,23.0,Married,2.0,578.0,0.0,0.2,573885.5,1493723.5,475262.5,84.0,Home,Urban,Not Graduate,Male,Private,No
+502.0,543005.5,769973.5,Self-employed,40.0,Single,2.0,750.0,2.0,0.21,928040.5,,913179.5,48.0,,Semiurban,Graduate,Male,Government,Yes
+503.0,1444798.0,353672.5,Salaried,39.0,Single,2.0,745.0,0.0,0.25,182578.0,2258293.0,1776758.0,84.0,Home,Urban,Graduate,Female,Business,Yes
+504.0,,681000.5,Unemployed,55.0,Married,0.0,600.0,,0.19,330416.0,695765.0,2258293.0,24.0,Personal,Rural,Not Graduate,Male,,No
+505.0,666815.0,63786.5,,24.0,Single,1.0,701.0,2.0,0.29,,4410243.0,3378465.0,36.0,Car,Rural,Graduate,Female,Government,No
+506.0,1254789.5,448146.0,Salaried,25.0,Married,0.0,563.0,4.0,0.56,1294837.0,3543866.0,2578190.5,84.0,Business,Rural,Graduate,Female,Private,No
+,1528849.5,820539.5,Salaried,21.0,Married,0.0,618.0,4.0,0.41,194447.5,584500.5,1041910.5,12.0,Education,Urban,Graduate,Female,Private,No
+508.0,1322436.0,281780.0,Salaried,24.0,Married,0.0,695.0,2.0,0.31,466384.5,2983394.0,2083821.0,60.0,Car,Urban,Graduate,Female,MNC,Yes
+509.0,1713936.5,894941.0,Salaried,32.0,Married,2.0,719.0,3.0,0.57,954771.0,2631362.0,714679.0,84.0,Home,Urban,Graduate,Male,Private,No
+510.0,790335.0,863289.0,Unemployed,47.0,Married,2.0,606.0,0.0,0.12,1538403.0,4243877.0,1444122.5,48.0,Home,Urban,Graduate,Female,Business,No
+511.0,1895260.0,601774.0,,43.0,Single,2.0,760.0,0.0,0.21,874772.5,4570047.0,1421734.5,36.0,Education,Rural,Graduate,Male,Private,
+512.0,737742.5,586527.0,Contract,45.0,Married,1.0,561.0,2.0,0.38,54522.5,2244493.5,2694859.0,84.0,Personal,Urban,Graduate,Male,Private,No
+513.0,1118242.0,33968.0,Self-employed,41.0,Single,3.0,759.0,2.0,0.41,715258.0,1337876.0,2874059.5,72.0,Education,Urban,Graduate,Male,Business,No
+514.0,,877571.0,,44.0,Married,2.0,566.0,3.0,0.12,1775793.0,3309274.5,1816516.0,12.0,Business,Urban,Graduate,Female,Government,No
+515.0,970114.5,675982.5,Salaried,45.0,Married,1.0,579.0,4.0,0.3,972430.5,4443342.5,3608521.0,60.0,Education,Rural,Graduate,Female,Private,No
+516.0,514345.0,15247.0,,52.0,,2.0,637.0,1.0,0.42,995397.5,679649.5,2826195.5,12.0,Home,Urban,Graduate,Male,Government,No
+517.0,1028883.0,92254.0,Contract,52.0,,2.0,752.0,4.0,0.45,1238481.0,4002144.5,1695312.0,36.0,Personal,Semiurban,Graduate,Male,Private,No
+518.0,879501.0,,Unemployed,25.0,Married,,648.0,0.0,0.42,223301.0,3753174.5,3033574.0,24.0,Personal,Rural,Not Graduate,Female,MNC,No
+519.0,1478669.5,829417.5,Salaried,56.0,Single,0.0,572.0,2.0,0.26,425758.0,3921953.0,2159670.0,60.0,Education,Rural,Graduate,Male,Private,No
+,323564.5,924373.5,Salaried,59.0,Single,0.0,758.0,3.0,0.15,374709.5,1209048.5,2489314.0,12.0,Business,Semiurban,Not Graduate,Male,Private,No
+521.0,1252087.5,333214.5,Salaried,36.0,Single,1.0,678.0,4.0,0.31,1098556.0,2978762.0,871491.5,24.0,Home,Urban,Graduate,Female,MNC,Yes
+522.0,1256719.5,644137.5,Unemployed,53.0,Single,3.0,628.0,3.0,,969921.5,2538818.5,2214385.5,,Car,Semiurban,Not Graduate,,,No
+523.0,257365.5,92157.5,Salaried,41.0,,3.0,581.0,,0.57,792844.0,2246906.0,404142.0,36.0,Personal,Rural,Graduate,Male,Private,
+524.0,1094020.5,607467.5,,29.0,Single,1.0,558.0,0.0,0.34,,4605269.5,2573558.5,,Education,,Graduate,Male,Private,No
+525.0,1511093.5,165208.0,Contract,26.0,Married,2.0,564.0,1.0,0.26,762543.0,3403362.0,3542804.5,60.0,Business,Semiurban,Graduate,Male,MNC,No
+526.0,551883.5,453839.5,Salaried,55.0,Married,,705.0,3.0,0.48,1272545.5,334276.0,,12.0,Business,Urban,Graduate,,Unemployed,No
+527.0,915109.5,633329.5,Salaried,59.0,Married,2.0,701.0,3.0,0.35,1695794.5,1799049.5,,48.0,Home,Urban,Graduate,Male,Business,Yes
+528.0,245013.5,913372.5,Self-employed,42.0,Married,1.0,737.0,1.0,0.26,1185792.0,2824072.5,2332501.5,72.0,Personal,Rural,Graduate,Male,Government,No
+,672026.0,543391.5,Unemployed,25.0,Single,1.0,712.0,3.0,0.51,1371265.0,1539561.0,1139375.5,60.0,Home,Rural,Graduate,Male,Business,No
+530.0,659577.5,929584.5,Salaried,,Single,1.0,763.0,3.0,0.53,664306.0,2304420.0,1081186.0,72.0,Car,Urban,Not Graduate,Female,Government,No
+,776053.0,963938.5,Salaried,37.0,Married,,576.0,4.0,0.44,1885706.5,1837649.5,2708369.0,60.0,Car,Urban,Graduate,Female,,No
+532.0,1624770.5,134521.0,Salaried,32.0,,0.0,760.0,4.0,0.12,1018943.5,24607.5,3702415.5,12.0,Car,,Graduate,Male,Unemployed,Yes
+533.0,898608.0,912986.5,,43.0,Single,1.0,658.0,1.0,0.38,1749062.5,144943.0,2282997.0,48.0,,Rural,Graduate,Female,Private,Yes
+534.0,706380.0,456638.0,Self-employed,36.0,Married,3.0,625.0,0.0,0.48,355892.0,449304.0,3674816.5,12.0,Personal,Semiurban,Graduate,Male,Private,No
+535.0,1468344.0,358401.0,Salaried,23.0,Single,0.0,697.0,3.0,0.17,1362001.0,994143.0,3472649.0,36.0,Home,Rural,Not Graduate,Male,MNC,Yes
+536.0,461173.5,51048.5,Salaried,50.0,Married,0.0,614.0,0.0,0.21,518108.5,523995.0,1426849.0,72.0,Home,Urban,Not Graduate,Male,Business,No
+537.0,1863222.0,285447.0,Salaried,42.0,Married,1.0,762.0,1.0,0.54,,3991819.0,2922309.5,24.0,Car,,Not Graduate,Male,Private,No
+538.0,345566.5,762736.0,Self-employed,,Married,2.0,726.0,1.0,,388219.5,2646512.5,101904.0,,Personal,Urban,Not Graduate,Female,Private,Yes
+,1416330.5,,Self-employed,49.0,Married,2.0,,4.0,0.48,1542263.0,4703796.0,3272411.5,36.0,Personal,Urban,Graduate,Male,Government,No
+540.0,744304.5,665367.5,Contract,57.0,Single,2.0,678.0,3.0,0.34,1650150.0,179490.0,922443.5,36.0,Education,Semiurban,Graduate,Male,Government,Yes
+541.0,1798663.5,881141.5,Salaried,43.0,Single,1.0,559.0,2.0,0.32,382815.5,594247.0,2611097.0,72.0,Personal,Urban,Graduate,Female,Government,No
+542.0,,50662.5,Contract,33.0,Single,2.0,596.0,1.0,,716319.5,560279.0,2291392.5,60.0,Personal,Rural,Not Graduate,Male,Private,No
+543.0,1171124.0,625030.5,Contract,52.0,Married,3.0,672.0,3.0,0.51,622425.0,2001217.0,155847.5,36.0,Home,Semiurban,Not Graduate,Male,Unemployed,No
+544.0,,96.5,Salaried,43.0,Married,3.0,608.0,0.0,0.28,1178554.5,1650729.0,874483.0,84.0,Personal,Semiurban,Graduate,Male,Private,No
+545.0,687466.0,36091.0,Salaried,37.0,Single,3.0,645.0,4.0,0.37,310247.5,914241.0,2819151.0,48.0,Personal,Urban,Graduate,Male,Government,No
+546.0,290947.5,448532.0,Salaried,41.0,Single,3.0,739.0,0.0,0.44,37635.0,1640210.5,3835392.5,36.0,Home,Urban,Not Graduate,Male,Government,No
+547.0,,228222.5,,22.0,Married,0.0,652.0,1.0,0.45,1874126.5,3145803.5,1127216.5,48.0,Personal,Urban,Graduate,Male,Private,No
+548.0,1005047.5,147162.5,Salaried,57.0,Married,3.0,673.0,1.0,0.58,22388.0,,770456.0,12.0,Home,Rural,Not Graduate,Male,Private,No
+549.0,1500575.0,158839.0,Salaried,26.0,Single,2.0,635.0,0.0,0.37,1883197.5,981405.0,2757873.5,60.0,,Semiurban,Graduate,Male,Unemployed,No
+550.0,1593408.0,1254.5,Salaried,38.0,Married,1.0,695.0,1.0,0.3,736681.0,,2535441.0,48.0,Business,Urban,Graduate,,MNC,Yes
+551.0,594247.0,443803.5,Contract,50.0,Married,2.0,661.0,3.0,0.58,1109557.0,,3738313.5,36.0,Home,Urban,Graduate,Female,Private,No
+552.0,865605.0,219827.0,Salaried,42.0,Married,3.0,723.0,1.0,0.42,1053394.0,,2740503.5,60.0,Home,Semiurban,Graduate,Female,MNC,No
+553.0,862517.0,304457.5,Contract,53.0,Married,0.0,709.0,4.0,0.25,22484.5,2488928.0,3134416.5,84.0,Personal,Rural,,,,
+554.0,1521998.0,802976.5,Self-employed,50.0,Single,3.0,,3.0,0.16,134231.5,2915844.0,187596.0,60.0,Home,Semiurban,Graduate,Female,Business,No
+555.0,1191196.0,368051.0,Contract,37.0,Single,1.0,769.0,2.0,0.52,1069606.0,697888.0,2842600.5,48.0,Car,Urban,Not Graduate,Female,Private,No
+556.0,894169.0,310344.0,Self-employed,52.0,Married,,567.0,1.0,0.28,911635.5,1223041.0,976001.0,48.0,Car,Urban,Graduate,Female,MNC,No
+557.0,1032743.0,793133.5,Salaried,34.0,Married,1.0,716.0,1.0,0.43,1368756.0,1549018.0,1846045.0,24.0,Education,Urban,Not Graduate,Male,Private,No
+558.0,230056.0,203904.5,Self-employed,,Married,1.0,726.0,4.0,0.34,1146613.0,4684303.0,1284608.0,24.0,Home,Urban,Graduate,Female,Government,No
+559.0,231986.0,911346.0,Salaried,56.0,Married,1.0,770.0,,0.2,1431867.0,570604.5,3242014.0,60.0,Personal,,Not Graduate,Male,MNC,No
+560.0,981887.5,420354.0,Salaried,54.0,Married,,631.0,0.0,0.4,1666844.5,4522955.0,3816671.5,72.0,Personal,Urban,Graduate,Female,Private,No
+561.0,1655747.0,534899.5,Unemployed,29.0,Single,3.0,721.0,0.0,0.13,762543.0,4647150.5,1037471.5,72.0,Business,Urban,Graduate,Male,Government,Yes
+562.0,,439557.5,Salaried,48.0,Married,1.0,621.0,0.0,0.31,1242823.5,2693604.5,763025.5,24.0,Education,Semiurban,Graduate,Female,Private,No
+563.0,1144490.0,681483.0,Salaried,31.0,Married,2.0,603.0,4.0,0.37,1652948.5,1019715.5,2809501.0,36.0,Personal,Urban,Graduate,Male,Business,No
+,770938.5,325591.0,Contract,34.0,Married,0.0,772.0,0.0,0.32,956411.5,3703573.5,2509868.5,,Business,Rural,Not Graduate,,Private,Yes
+565.0,1650729.0,620495.0,Contract,59.0,Married,2.0,711.0,0.0,0.47,,910188.0,1959915.0,60.0,Personal,Urban,Graduate,Male,Government,No
+566.0,1914946.0,334469.0,Self-employed,39.0,Married,,620.0,2.0,0.51,70541.5,30783.5,,12.0,Business,Semiurban,Graduate,Male,Unemployed,No
+567.0,543874.0,,Salaried,35.0,Married,2.0,713.0,0.0,0.49,77103.5,2361258.5,1929614.0,24.0,Car,Urban,Not Graduate,Male,Private,
+568.0,1246394.0,60698.5,,48.0,Single,3.0,695.0,1.0,0.12,677912.5,4386311.0,680035.5,48.0,Car,Rural,Graduate,Male,Private,Yes
+,657068.5,25958.5,Salaried,44.0,Married,1.0,587.0,4.0,0.2,1397416.5,2556285.0,2872515.5,84.0,Personal,Urban,Not Graduate,Male,Business,No
+570.0,,552366.0,,28.0,Married,3.0,736.0,3.0,0.37,735716.0,,1673985.5,60.0,Education,Urban,Graduate,Male,MNC,Yes
+571.0,1683346.0,569060.5,Unemployed,29.0,Single,2.0,686.0,2.0,0.57,1443736.5,462331.5,3621355.5,24.0,Home,Rural,Not Graduate,Female,Unemployed,No
+572.0,771710.5,331188.0,Contract,53.0,Single,1.0,750.0,4.0,0.52,,3062524.0,2422343.0,36.0,Education,Urban,Graduate,Male,Private,No
+573.0,390632.0,,,53.0,Married,0.0,787.0,4.0,0.52,794388.0,31748.5,507879.5,84.0,Education,Urban,Not Graduate,Male,Private,No
+574.0,1383617.0,605634.0,,39.0,Single,2.0,,1.0,0.25,324915.5,854121.5,280043.0,60.0,Home,Semiurban,Graduate,Female,MNC,Yes
+575.0,1843150.0,568867.5,Contract,23.0,Married,1.0,728.0,0.0,0.31,1279783.0,4253527.0,3070919.5,60.0,Car,Semiurban,Graduate,Male,MNC,Yes
+576.0,631496.0,686597.5,Contract,30.0,Married,0.0,584.0,1.0,0.34,504598.5,2231659.0,3043610.0,72.0,Car,Urban,Graduate,Male,Business,No
+577.0,673184.0,,Salaried,21.0,Married,0.0,631.0,0.0,0.18,1814103.5,2055450.0,3506327.5,48.0,Home,Urban,Graduate,Male,Private,No
+578.0,1425787.5,55487.5,Contract,49.0,Single,3.0,682.0,0.0,0.12,1326585.5,980826.0,1079835.0,60.0,Business,,Graduate,Female,Private,Yes
+579.0,1159447.5,678298.5,Salaried,54.0,Single,2.0,691.0,4.0,0.57,1865634.5,2365118.5,2768585.0,48.0,Education,Urban,Graduate,Male,Private,No
+580.0,522933.5,,Self-employed,33.0,Married,0.0,769.0,0.0,0.22,411186.5,550339.5,385421.0,24.0,Personal,Semiurban,Graduate,Male,Unemployed,Yes
+581.0,1585495.0,916653.5,Contract,21.0,Married,1.0,707.0,,0.22,334469.0,2616018.5,3763210.5,36.0,Car,Rural,Not Graduate,Female,Private,Yes
+582.0,891563.5,308028.0,Self-employed,,Single,0.0,553.0,2.0,0.14,1330252.5,4189740.5,290465.0,84.0,Personal,Urban,Graduate,Male,Government,No
+583.0,1591188.5,306677.0,Salaried,49.0,Married,0.0,716.0,2.0,0.56,297992.0,2176461.0,808380.5,,Home,Semiurban,Not Graduate,Female,,No
+584.0,1798084.5,584018.0,Self-employed,33.0,Married,3.0,761.0,4.0,0.39,1255947.5,2670734.0,1354474.0,36.0,Personal,Rural,Graduate,Male,Private,Yes
+585.0,1192450.5,263831.0,Self-employed,49.0,Single,3.0,741.0,1.0,,107597.5,2297086.0,2650565.5,60.0,Personal,Rural,Graduate,Male,Private,No
+586.0,1848361.0,590194.0,Unemployed,59.0,Single,1.0,702.0,3.0,0.56,441777.0,4384960.0,101132.0,60.0,Education,Urban,Not Graduate,Female,Business,No
+587.0,614029.5,,Salaried,44.0,Single,3.0,705.0,0.0,0.27,249935.0,3563069.5,,24.0,Home,Urban,,Male,Private,No
+588.0,1174984.0,950235.5,Salaried,46.0,Single,0.0,753.0,3.0,0.41,,2875893.0,1644167.0,72.0,Personal,Rural,Graduate,Female,Private,No
+589.0,1877986.5,942901.5,Contract,37.0,Married,0.0,743.0,1.0,,344794.5,2392717.5,3240084.0,72.0,Car,Urban,Graduate,Female,Private,Yes
+590.0,1006205.5,212589.5,Salaried,27.0,Single,3.0,784.0,1.0,0.19,,251961.5,856727.0,72.0,Home,Urban,Graduate,Male,MNC,Yes
+591.0,1020970.0,134135.0,Self-employed,33.0,Single,0.0,755.0,4.0,0.52,1026663.5,,2760768.5,48.0,Car,Urban,,Female,Unemployed,No
+592.0,661797.0,168103.0,Self-employed,25.0,Married,0.0,699.0,2.0,0.48,909223.0,1590223.5,2419255.0,72.0,Business,Urban,Graduate,Male,Business,No
+593.0,1161860.0,185762.5,Contract,46.0,Married,1.0,708.0,2.0,0.28,1047797.0,885870.0,2219114.0,36.0,Personal,,Graduate,Female,MNC,Yes
+594.0,1665011.0,59733.5,Self-employed,23.0,Married,3.0,572.0,1.0,0.29,480087.5,897836.0,1849036.5,84.0,Home,Rural,Graduate,Male,Government,No
+595.0,1299855.0,122941.0,Self-employed,27.0,Married,0.0,597.0,4.0,0.37,475262.5,1409865.0,311502.0,84.0,Car,Urban,Graduate,Male,Business,No
+596.0,313818.0,92254.0,Salaried,59.0,Single,3.0,697.0,4.0,0.1,1040849.0,814170.5,2640722.5,48.0,Personal,Urban,,Male,Unemployed,No
+597.0,868114.0,187113.5,Salaried,21.0,Single,1.0,674.0,0.0,0.22,1912051.0,4160887.0,2527142.0,24.0,Education,Rural,Not Graduate,Male,Government,
+598.0,1367694.5,381464.5,Salaried,37.0,Married,3.0,715.0,2.0,0.2,1420094.0,1208276.5,954192.0,,Car,Urban,Graduate,Male,Private,Yes
+599.0,643944.5,93412.0,Salaried,45.0,Married,0.0,,1.0,0.23,192517.5,2318702.0,2328545.0,84.0,Car,Rural,Graduate,Female,Unemployed,No
+600.0,1715866.5,917522.0,Self-employed,23.0,Single,3.0,,3.0,0.5,1335946.0,,1909735.0,36.0,Business,Rural,Graduate,Female,MNC,No
+601.0,1452421.5,891177.5,Contract,35.0,Married,0.0,756.0,2.0,0.24,375481.5,2634546.5,2492016.0,84.0,Education,Urban,,Male,Private,Yes
+602.0,857016.5,27116.5,,49.0,Married,0.0,637.0,0.0,0.2,1497873.0,3668447.5,3320082.5,12.0,Business,Rural,Graduate,,Unemployed,No
+603.0,863578.5,604283.0,Contract,52.0,Married,0.0,766.0,4.0,0.35,689492.5,2097910.0,2458241.0,24.0,Education,Rural,Graduate,Female,Private,Yes
+604.0,1111776.5,102097.0,Unemployed,46.0,Married,1.0,550.0,1.0,0.53,820057.0,3555542.5,1769134.5,24.0,Car,Urban,Graduate,Male,Private,No
+605.0,966640.5,414274.5,Contract,,Married,3.0,684.0,2.0,0.22,921961.0,2053713.0,3604757.5,12.0,Business,Urban,Graduate,Male,Business,Yes
+606.0,862806.5,499677.0,,45.0,Married,1.0,734.0,3.0,0.14,202843.0,1047797.0,3365823.5,48.0,Personal,,Graduate,Male,Private,Yes
+607.0,1178168.5,673570.0,Self-employed,48.0,Married,3.0,,0.0,0.28,292395.0,4261343.5,903915.5,84.0,Education,Urban,Not Graduate,Male,Business,
+608.0,1902497.5,887800.0,Salaried,29.0,Married,1.0,689.0,0.0,,822566.0,4218401.0,166173.0,84.0,Car,Semiurban,Graduate,Male,,No
+,1114575.0,118598.5,Salaried,21.0,Married,2.0,655.0,2.0,0.38,782325.5,1465449.0,3101992.5,84.0,Home,Rural,Graduate,Female,Private,Yes
+610.0,640470.5,890405.5,Salaried,49.0,Married,0.0,682.0,3.0,0.51,1604409.0,3298852.5,3728181.0,72.0,Education,Urban,Graduate,Female,,No
+611.0,661411.0,442452.5,Unemployed,,Single,0.0,657.0,0.0,0.58,1762862.0,3010221.0,1074913.5,72.0,Education,Urban,Graduate,Male,Government,No
+612.0,1188880.0,817065.5,Contract,36.0,Single,1.0,727.0,1.0,0.5,1441227.5,2434695.0,301852.0,72.0,Personal,Urban,,Female,Private,No
+613.0,665078.0,264410.0,Salaried,27.0,Married,2.0,591.0,0.0,0.4,928716.0,2607237.0,2086040.5,72.0,Education,Urban,Graduate,Male,Unemployed,No
+614.0,872649.5,220888.5,Salaried,34.0,Married,0.0,651.0,3.0,0.35,1526919.5,4753783.0,2806220.0,72.0,Education,Rural,Graduate,Male,Government,Yes
+615.0,1787276.5,119563.5,Contract,49.0,Single,3.0,673.0,,0.12,758779.5,2380172.5,3501502.5,12.0,Personal,Semiurban,Not Graduate,Male,,Yes
+616.0,,518205.0,Salaried,39.0,Married,,689.0,4.0,0.59,300018.5,4026173.0,1788434.5,24.0,Personal,Semiurban,Not Graduate,Male,Private,No
+617.0,959306.5,12062.5,Salaried,39.0,,0.0,652.0,2.0,0.29,1792005.0,4473643.5,3244716.0,48.0,Business,Urban,Graduate,Male,MNC,Yes
+618.0,1581442.0,721144.5,Contract,22.0,Single,0.0,695.0,3.0,,1204513.0,3875343.5,2794254.0,36.0,Car,Semiurban,Not Graduate,,Government,Yes
+619.0,730408.5,907100.0,Salaried,35.0,Single,1.0,743.0,0.0,0.43,149575.0,4258738.0,3288430.5,72.0,Car,Semiurban,Not Graduate,Male,Private,No
+620.0,607950.0,515503.0,Salaried,23.0,Single,1.0,623.0,0.0,0.24,62339.0,4162913.5,477868.0,12.0,Business,Semiurban,Graduate,Male,Private,No
+621.0,797958.5,709371.5,Self-employed,31.0,,3.0,756.0,4.0,0.39,1293775.5,2076294.0,2296314.0,84.0,Car,Urban,Graduate,Female,Government,Yes
+622.0,561437.0,640567.0,Contract,,Single,3.0,771.0,4.0,0.39,1225550.0,3403748.0,3159989.0,48.0,Education,Rural,Graduate,Female,Private,
+623.0,1352447.5,634005.0,Self-employed,38.0,Married,0.0,657.0,1.0,0.32,51820.5,2380944.5,2147028.5,48.0,Business,Rural,Graduate,Male,Business,Yes
+624.0,1373581.0,313528.5,Salaried,22.0,Single,0.0,,4.0,0.52,1367019.0,505563.5,97947.5,48.0,Business,,Not Graduate,Female,Unemployed,No
+625.0,796511.0,879115.0,Salaried,52.0,Married,1.0,566.0,1.0,0.23,634198.0,,2601350.5,12.0,Car,Semiurban,Graduate,Female,Private,No
+626.0,1847396.0,732917.5,Salaried,28.0,Married,0.0,745.0,0.0,0.32,22581.0,2549047.5,1640982.5,36.0,Home,Urban,Graduate,,MNC,Yes
+627.0,902275.0,607371.0,Self-employed,42.0,Single,0.0,620.0,1.0,0.37,1357465.5,3656192.0,2151178.0,72.0,Car,Urban,Graduate,Male,Unemployed,No
+628.0,1658159.5,629855.5,Contract,26.0,Married,1.0,611.0,1.0,0.43,935664.0,2624317.5,3172534.0,48.0,Home,Semiurban,Graduate,Male,Unemployed,No
+,794967.0,555550.5,Salaried,32.0,Married,0.0,590.0,2.0,0.49,1365475.0,3779036.5,1526340.5,12.0,Business,Urban,Graduate,Female,Unemployed,No
+630.0,780685.0,190008.5,Contract,56.0,Single,,772.0,4.0,0.3,1713647.0,2829669.5,2554355.0,84.0,Home,Semiurban,Graduate,Male,MNC,Yes
+631.0,1315970.5,85981.5,Salaried,35.0,Married,2.0,792.0,1.0,0.42,184218.5,3374026.0,1038243.5,24.0,Education,Rural,Graduate,Male,Government,No
+,1413435.5,431355.0,Salaried,,Married,3.0,796.0,0.0,0.18,1172475.0,3496581.0,715258.0,84.0,Personal,Urban,Not Graduate,Male,Government,Yes
+633.0,1149411.5,692387.5,Salaried,38.0,Married,1.0,780.0,3.0,0.57,7720.0,2968629.5,2075136.0,12.0,Home,Urban,Not Graduate,Female,Government,No
+634.0,1010548.0,922154.0,Salaried,22.0,Single,2.0,668.0,1.0,0.29,201009.5,,917425.5,12.0,Personal,Rural,Not Graduate,Female,MNC,Yes
+635.0,508169.0,802880.0,Self-employed,33.0,,3.0,711.0,4.0,0.46,1290977.0,1747132.5,2127825.0,12.0,Education,Rural,Not Graduate,Male,Private,No
+636.0,257269.0,888379.0,Self-employed,35.0,Married,3.0,747.0,2.0,0.11,1468440.5,,561630.0,48.0,Personal,Semiurban,Not Graduate,Male,Private,Yes
+637.0,597142.0,964131.5,Salaried,40.0,Single,3.0,791.0,0.0,,1744141.0,2869813.5,852577.5,12.0,Education,Semiurban,Graduate,Female,Private,Yes
+638.0,1838807.5,657358.0,Self-employed,49.0,Married,2.0,,2.0,0.34,1654010.0,4651782.5,,24.0,Personal,Urban,Graduate,Male,MNC,Yes
+639.0,1173536.5,725583.5,Salaried,49.0,Single,2.0,594.0,3.0,0.54,257655.0,3085008.5,3437040.5,48.0,Personal,Urban,Graduate,Male,,No
+640.0,1284801.0,445058.0,Contract,23.0,Married,3.0,607.0,1.0,0.36,361971.5,1398960.5,,84.0,Car,Semiurban,Graduate,Male,Government,No
+641.0,1436981.5,937015.0,Unemployed,39.0,Married,0.0,728.0,1.0,0.56,1133296.0,175244.0,,24.0,Home,Rural,Graduate,Female,Private,No
+642.0,653980.5,115607.0,Salaried,23.0,Single,0.0,675.0,4.0,0.34,507686.5,2555609.5,756560.0,60.0,Personal,Urban,Not Graduate,Female,Business,Yes
+643.0,569350.0,505467.0,Self-employed,34.0,Married,2.0,711.0,,,1417681.5,4195916.5,3747481.0,84.0,Business,Semiurban,Graduate,Female,,No
+644.0,1516594.0,587588.5,Salaried,24.0,Married,2.0,593.0,0.0,0.16,661218.0,2138343.5,3130460.0,12.0,Car,Semiurban,,Male,,No
+645.0,866666.5,603800.5,Salaried,31.0,Married,2.0,564.0,3.0,0.5,144171.0,371428.5,3491659.5,72.0,Home,,,Male,Private,No
+646.0,808284.0,743532.5,Salaried,51.0,Single,3.0,627.0,2.0,0.22,1668002.5,2085558.0,3052874.0,72.0,Car,Urban,Graduate,Male,Unemployed,No
+647.0,1824525.5,358883.5,Contract,52.0,Married,0.0,619.0,3.0,0.55,64848.0,3823040.5,327038.5,48.0,Home,Rural,Not Graduate,Female,Government,No
+648.0,1173440.0,29143.0,Self-employed,47.0,Married,2.0,727.0,1.0,0.56,832795.0,3264209.0,170129.5,72.0,Education,Rural,Graduate,Male,,No
+649.0,,,,,Married,2.0,,2.0,0.57,990862.0,4294057.0,2405262.5,,Personal,Semiurban,Graduate,Male,Business,No
+,1764213.0,428460.0,Contract,22.0,Married,1.0,791.0,4.0,0.36,42846.0,1805129.0,2658478.5,48.0,Business,Semiurban,Graduate,Female,Government,Yes
+651.0,1205092.0,473718.5,Self-employed,29.0,Married,3.0,709.0,3.0,0.44,883650.5,2370329.5,2360100.5,84.0,Car,Rural,Not Graduate,Male,Private,No
+652.0,698660.0,296448.0,Contract,48.0,Single,1.0,744.0,2.0,0.49,1156263.0,420643.5,2163819.5,12.0,,Rural,Graduate,Male,Government,No
+653.0,1201714.5,301466.0,Self-employed,51.0,Single,0.0,552.0,2.0,0.17,835207.5,2959558.5,1111487.0,36.0,Car,Semiurban,Graduate,Female,,No
+654.0,1204127.0,918583.5,Self-employed,54.0,Married,1.0,763.0,2.0,0.4,1793163.0,1236068.5,3219240.0,36.0,Car,Urban,Not Graduate,Male,Government,No
+655.0,1389021.0,784062.5,Salaried,35.0,Married,1.0,635.0,0.0,0.12,,,2815194.5,24.0,Personal,Urban,Graduate,Male,Business,No
+656.0,620688.0,317581.5,Salaried,45.0,Married,1.0,623.0,3.0,0.35,1153850.5,2842311.0,1003117.5,12.0,Home,Semiurban,Graduate,Male,Unemployed,No
+657.0,1502312.0,389184.5,Unemployed,56.0,Married,3.0,600.0,2.0,0.18,386772.0,700011.0,1949975.5,72.0,Personal,Urban,Graduate,Male,MNC,No
+658.0,1561177.0,,Salaried,28.0,Single,0.0,616.0,,0.19,1128664.0,4399435.0,3768807.5,12.0,Education,Urban,Not Graduate,,Business,No
+659.0,1897190.0,67839.5,Unemployed,29.0,Married,1.0,625.0,2.0,0.28,878536.0,2391752.5,2667163.5,60.0,Personal,Urban,Graduate,Female,Business,No
+660.0,222143.0,784834.5,Self-employed,57.0,Married,3.0,642.0,4.0,0.32,47864.0,201974.5,2887666.0,36.0,Personal,Urban,,Male,Unemployed,No
+661.0,1835623.0,55391.0,Salaried,59.0,Single,0.0,725.0,4.0,0.41,141179.5,4294057.0,813784.5,72.0,Education,Urban,Graduate,Female,Unemployed,No
+662.0,198307.5,550436.0,Salaried,52.0,Married,2.0,694.0,,0.14,1202293.5,3955052.5,3001536.0,84.0,Personal,Urban,Graduate,Male,Unemployed,No
+663.0,1448754.5,757332.0,Salaried,37.0,Single,1.0,556.0,1.0,0.35,1628630.5,3088868.5,3724321.0,84.0,Home,Semiurban,Graduate,Male,Business,No
+664.0,1034190.5,502572.0,Unemployed,55.0,Married,0.0,562.0,2.0,0.19,1718665.0,1597847.0,,36.0,Business,Rural,Graduate,Male,Private,No
+665.0,979475.0,668166.0,Salaried,57.0,Single,1.0,669.0,1.0,0.39,953806.0,1709787.0,1112452.0,12.0,Education,Rural,Graduate,Female,Private,Yes
+666.0,398062.5,369402.0,Salaried,39.0,Single,,615.0,3.0,,1754080.5,1612032.5,2816835.0,72.0,Car,Urban,Graduate,Male,Private,No
+,1300723.5,311695.0,Salaried,49.0,Single,0.0,553.0,1.0,0.38,262769.5,2130913.0,144460.5,24.0,Home,,Graduate,Female,Unemployed,No
+668.0,1712392.5,,Salaried,27.0,Single,3.0,687.0,3.0,0.47,1644553.0,1191003.0,833856.5,84.0,Business,Rural,Graduate,Female,MNC,No
+669.0,1809182.0,686501.0,,48.0,Married,0.0,780.0,3.0,0.27,459436.5,1181063.5,544549.5,12.0,,Rural,Graduate,Female,Government,Yes
+670.0,850068.5,920513.5,Salaried,29.0,Married,3.0,637.0,3.0,0.48,736295.0,4499023.0,584404.0,24.0,Home,Urban,Graduate,Female,Government,No
+671.0,638926.5,306194.5,Contract,48.0,Single,0.0,566.0,1.0,0.32,1580187.5,4503172.5,3271253.5,72.0,Car,Urban,Graduate,Male,Private,No
+672.0,1643781.0,160865.5,Salaried,26.0,Married,3.0,601.0,2.0,0.34,843506.5,3114441.0,,36.0,Business,Semiurban,Not Graduate,Female,Government,No
+673.0,1507619.5,948498.5,Salaried,49.0,Married,2.0,683.0,1.0,0.42,419775.0,1101933.5,1760256.5,60.0,Home,Rural,Graduate,Female,Business,No
+674.0,687659.0,397001.0,Salaried,37.0,Married,2.0,760.0,2.0,0.11,19975.5,4133288.0,937208.0,48.0,,Rural,Graduate,Female,Government,Yes
+,687273.0,342864.5,Salaried,36.0,Married,2.0,618.0,2.0,0.43,404335.0,1447789.5,889826.5,36.0,Education,Rural,Graduate,Male,Private,No
+,1862643.0,748936.5,Unemployed,43.0,Married,0.0,773.0,3.0,0.41,181709.5,2978569.0,3121389.0,24.0,Car,Urban,Graduate,Female,Government,No
+677.0,759455.0,96500.0,Self-employed,51.0,Married,2.0,751.0,1.0,0.25,278499.0,2121842.0,1607690.0,12.0,Personal,Rural,Not Graduate,Male,Private,Yes
+678.0,340741.5,872553.0,Salaried,23.0,,1.0,686.0,2.0,0.14,1627086.5,4152105.5,3851797.5,,Car,Urban,Graduate,Male,Unemployed,No
+679.0,981598.0,133942.0,Self-employed,41.0,Married,,768.0,4.0,0.15,863964.5,2403622.0,,72.0,Car,Rural,Graduate,Female,Private,Yes
+680.0,933444.5,525925.0,,46.0,Married,3.0,754.0,,0.56,808766.5,547541.0,3702898.0,36.0,Car,Semiurban,Graduate,Female,Unemployed,No
+681.0,857113.0,,Salaried,56.0,Married,3.0,760.0,4.0,0.44,1331217.5,482693.0,1827903.0,84.0,Home,Rural,Graduate,Male,Private,No
+682.0,376929.0,131915.5,Unemployed,,Married,3.0,570.0,1.0,0.16,1653913.5,2660215.5,,84.0,Business,Urban,Graduate,Female,Private,No
+683.0,490799.0,790238.5,Contract,,Single,0.0,573.0,1.0,0.28,930067.0,87815.0,251575.5,60.0,Car,Urban,Graduate,Male,Business,No
+684.0,1496039.5,869754.5,Unemployed,32.0,Married,1.0,779.0,1.0,0.4,475841.5,2805448.0,,72.0,Car,Rural,Not Graduate,Male,MNC,No
+685.0,979668.0,43811.0,Salaried,33.0,Married,2.0,553.0,2.0,0.52,951007.5,3253690.5,441391.0,24.0,Personal,Semiurban,Not Graduate,Male,Government,No
+686.0,747875.0,947244.0,Self-employed,31.0,Single,1.0,701.0,0.0,0.12,552366.0,2104568.5,798441.0,72.0,Personal,Rural,Graduate,Male,Private,Yes
+687.0,1425498.0,,Salaried,36.0,Married,1.0,736.0,2.0,0.22,1198530.0,2571821.5,1616182.0,,Education,Rural,Graduate,Female,Private,Yes
+688.0,1183765.5,,,28.0,Married,3.0,776.0,2.0,0.54,391790.0,4274081.5,2043387.5,12.0,Education,Urban,Not Graduate,Male,Business,
+689.0,295483.0,697888.0,Contract,22.0,Married,3.0,552.0,3.0,,459822.5,4244938.5,1237709.0,48.0,Personal,Rural,Graduate,Male,Private,No
+690.0,1899120.0,463779.0,Salaried,50.0,Single,3.0,617.0,3.0,,1929614.0,1590706.0,,84.0,Business,Rural,Graduate,Male,Private,No
+691.0,794098.5,211335.0,Contract,50.0,Married,0.0,798.0,2.0,0.58,632364.5,448339.0,3389948.5,24.0,Education,Semiurban,Not Graduate,Male,Business,No
+692.0,1786118.5,878922.0,Contract,32.0,Married,,650.0,4.0,0.41,711977.0,3832304.5,528144.5,12.0,Business,Urban,Graduate,Female,Private,No
+693.0,1654685.5,277437.5,Salaried,30.0,Married,1.0,717.0,3.0,0.23,1744044.5,231600.0,2363285.0,84.0,Personal,Rural,Graduate,Male,Private,Yes
+694.0,639988.0,539628.0,Self-employed,31.0,Married,0.0,725.0,2.0,0.13,1708050.0,4277941.5,1011416.5,48.0,Education,Urban,Graduate,Male,Private,Yes
+695.0,799792.0,138960.0,Self-employed,35.0,Married,0.0,603.0,0.0,0.11,688045.0,2140852.5,918680.0,12.0,Car,Rural,Graduate,Female,Unemployed,No
+696.0,,861455.5,Salaried,36.0,Married,0.0,584.0,4.0,0.22,307449.0,,,48.0,Personal,Semiurban,Not Graduate,Male,Private,No
+697.0,1300337.5,584693.5,Contract,37.0,Married,1.0,772.0,1.0,0.54,558638.5,3196080.0,1792005.0,48.0,Education,Urban,Graduate,Female,Unemployed,No
+698.0,788212.0,676465.0,,46.0,,1.0,,2.0,0.31,1555773.0,4656800.5,2007007.0,48.0,Business,Urban,Not Graduate,Male,Private,
+699.0,1138217.5,686790.5,Salaried,22.0,Single,3.0,657.0,2.0,0.46,1691548.5,98237.0,437724.0,12.0,Business,Rural,Graduate,Male,MNC,
+700.0,922636.5,883264.5,Self-employed,,Married,3.0,766.0,4.0,0.56,766403.0,1694829.5,267594.5,72.0,Education,Rural,Graduate,Female,Private,No
+701.0,989897.0,288438.5,Unemployed,46.0,Single,1.0,589.0,3.0,0.3,,501124.5,2981271.0,48.0,Business,Urban,Graduate,Female,Government,No
+702.0,1796444.0,889537.0,,43.0,Married,3.0,754.0,3.0,0.2,1635096.0,1515146.5,3505459.0,72.0,Education,Urban,Graduate,Male,MNC,
+703.0,807801.5,601002.0,Contract,38.0,Married,0.0,617.0,3.0,0.36,1765564.0,341224.0,586623.5,84.0,Education,Rural,Graduate,Female,,No
+704.0,1579608.5,624451.5,Salaried,52.0,Single,,595.0,,0.55,1760932.0,4652940.5,2589867.0,84.0,Business,Semiurban,Graduate,Female,MNC,No
+705.0,,,Contract,,Single,3.0,627.0,4.0,0.5,28564.0,4304865.0,2200586.0,24.0,Home,Urban,Not Graduate,Male,MNC,No
+706.0,959499.5,113580.5,Contract,23.0,Single,1.0,690.0,4.0,0.13,232468.5,1822499.0,1995137.5,60.0,Car,Semiurban,Not Graduate,Male,Private,Yes
+707.0,1370203.5,459340.0,Salaried,58.0,Married,3.0,704.0,3.0,0.45,140986.5,3530645.5,2566321.0,72.0,Personal,Urban,Graduate,Male,Government,No
+708.0,1710752.0,1061.5,Salaried,23.0,Single,3.0,555.0,3.0,0.39,218862.0,2838065.0,3598678.0,84.0,Car,Urban,Graduate,Male,Government,No
+709.0,843217.0,506818.0,Contract,50.0,Married,3.0,566.0,0.0,0.55,1676977.0,3256296.0,964807.0,60.0,Personal,Urban,Not Graduate,Male,MNC,No
+710.0,1728604.5,424503.5,,21.0,Single,2.0,,0.0,,632461.0,3731172.5,1418260.5,48.0,Personal,Semiurban,Graduate,,Private,Yes
+711.0,431548.0,794581.0,Contract,50.0,Single,0.0,781.0,2.0,0.37,1581731.5,1539850.5,1392398.5,,Car,Urban,Graduate,Male,Unemployed,Yes
+712.0,1706023.5,881527.5,Salaried,52.0,Married,1.0,790.0,2.0,0.54,1823753.5,4644255.5,785510.0,,Education,Rural,Not Graduate,Female,Government,No
+713.0,362936.5,525442.5,Contract,48.0,Single,2.0,648.0,4.0,,1717796.5,4439772.0,1534446.5,48.0,Business,Urban,Graduate,Male,Business,No
+714.0,1174115.5,634005.0,Contract,41.0,Married,1.0,630.0,4.0,0.34,1804550.0,3172437.5,2342923.5,,Home,Semiurban,Graduate,Male,Private,No
+715.0,1211461.0,887414.0,Unemployed,33.0,Married,1.0,782.0,1.0,0.14,710047.0,4660178.0,2849162.5,48.0,Home,Semiurban,Graduate,Female,Government,
+716.0,1858590.0,792458.0,Salaried,47.0,Married,1.0,551.0,1.0,0.24,1705251.5,156909.0,2073881.5,24.0,Home,Rural,Graduate,Male,Business,No
+717.0,1570730.5,39179.0,Self-employed,56.0,Married,2.0,798.0,0.0,0.26,1688943.0,2439423.5,413020.0,36.0,Car,Semiurban,Graduate,Male,Government,Yes
+718.0,560858.0,888379.0,Self-employed,,Single,0.0,626.0,2.0,0.57,736970.5,601098.5,3472070.0,12.0,Car,Rural,Graduate,Male,Unemployed,No
+719.0,1914946.0,427591.5,Salaried,42.0,Single,1.0,729.0,0.0,0.24,63690.0,663630.5,2990438.5,48.0,Education,Semiurban,Not Graduate,Female,Business,Yes
+720.0,347882.5,505949.5,Salaried,30.0,Married,0.0,615.0,0.0,0.33,859525.5,3246453.0,876027.0,48.0,Home,Urban,,Male,Government,No
+721.0,735523.0,631303.0,Salaried,59.0,Single,0.0,601.0,2.0,0.44,667973.0,3697011.5,2616887.0,60.0,Education,Urban,,Male,,No
+722.0,846015.5,669324.0,Contract,35.0,Single,3.0,641.0,1.0,0.18,1153464.5,3122354.0,2411052.5,24.0,Home,Rural,Graduate,Female,Business,No
+723.0,1313654.5,859429.0,Self-employed,35.0,Married,2.0,720.0,2.0,0.34,1825104.5,367568.5,1736710.5,84.0,Car,Urban,Not Graduate,Female,Business,Yes
+724.0,1214838.5,400089.0,Salaried,24.0,Single,2.0,767.0,3.0,0.47,383105.0,4185301.5,1473941.0,84.0,Business,Urban,Not Graduate,Male,,No
+725.0,1536087.0,13510.0,Self-employed,52.0,Married,3.0,571.0,3.0,0.53,328775.5,3365437.5,180262.0,60.0,,Rural,Not Graduate,Male,Private,No
+726.0,1451939.0,471113.0,Salaried,43.0,,3.0,660.0,3.0,0.41,,4295504.5,2643907.0,72.0,Business,Urban,Graduate,Female,Business,No
+727.0,442935.0,580158.0,Salaried,26.0,Married,0.0,656.0,4.0,0.43,1403785.5,913372.5,1644553.0,48.0,Business,Rural,Not Graduate,Female,MNC,No
+728.0,1876635.5,92929.5,Unemployed,44.0,Married,1.0,732.0,1.0,0.16,459340.0,53943.5,3167130.0,48.0,Personal,Urban,Graduate,Male,Private,Yes
+729.0,610266.0,690071.5,Unemployed,40.0,Married,2.0,616.0,1.0,0.57,1764116.5,801722.0,2146739.0,60.0,Home,Semiurban,Graduate,Male,Private,No
+730.0,1233945.5,826426.0,Self-employed,57.0,Single,,776.0,4.0,0.17,1299372.5,2060564.5,2080636.5,48.0,Business,Semiurban,Graduate,Female,Government,Yes
+731.0,1072211.5,348365.0,Salaried,40.0,Married,1.0,737.0,0.0,0.49,394395.5,1471625.0,,,Personal,Semiurban,Graduate,Female,Private,No
+732.0,708503.0,953806.0,Contract,32.0,Married,3.0,735.0,3.0,0.23,734075.5,4441219.5,3426908.0,36.0,Personal,Urban,Not Graduate,Female,Business,Yes
+733.0,1774538.5,665271.0,Salaried,53.0,Married,1.0,689.0,,,387833.5,3456051.0,3476316.0,12.0,Personal,Rural,Graduate,Male,Business,No
+734.0,1028593.5,705511.5,,48.0,Single,0.0,765.0,0.0,0.46,78647.5,4499216.0,2412114.0,12.0,Education,Semiurban,Graduate,Male,Private,No
+735.0,1548149.5,10132.5,Salaried,28.0,Married,3.0,618.0,,0.48,1212329.5,1585205.5,2858137.0,12.0,Education,Semiurban,Graduate,Female,MNC,No
+736.0,1045770.5,534513.5,Self-employed,21.0,Married,1.0,633.0,2.0,,1282678.0,3211134.0,1240893.5,36.0,Personal,Rural,Graduate,Male,Government,No
+737.0,204290.5,952744.5,Self-employed,57.0,Married,3.0,652.0,1.0,0.32,1559247.0,589325.5,2371970.0,48.0,Business,Urban,Graduate,Male,Business,No
+738.0,1535990.5,654945.5,Salaried,42.0,Married,0.0,588.0,4.0,0.41,88973.0,1300434.0,,60.0,Home,Rural,Graduate,Male,Private,
+739.0,1573818.5,206220.5,Self-employed,26.0,Single,0.0,562.0,1.0,0.48,1247648.5,,3749700.5,84.0,Car,Rural,Graduate,Male,Government,No
+,1470081.0,428942.5,Unemployed,41.0,Single,1.0,590.0,2.0,0.15,1440262.5,1960108.0,734172.0,24.0,Education,Urban,,Male,MNC,No
+741.0,729540.0,340645.0,Salaried,52.0,Married,3.0,606.0,0.0,0.58,,2103217.5,567034.0,48.0,Business,Rural,Not Graduate,Female,Private,No
+,274639.0,,Contract,55.0,Married,1.0,730.0,1.0,0.55,1059473.5,1267624.0,2126667.0,36.0,Business,Semiurban,Not Graduate,Female,Private,No
+743.0,1250061.0,680518.0,,35.0,Single,1.0,,3.0,0.24,262673.0,1367115.5,2799079.0,72.0,,Rural,Not Graduate,Female,Private,Yes
+744.0,1515339.5,352611.0,Salaried,25.0,Married,3.0,,,0.51,516757.5,1669450.0,3548787.5,36.0,Car,Urban,Not Graduate,Female,Private,No
+745.0,1677652.5,685343.0,Salaried,26.0,Single,1.0,562.0,0.0,0.36,1283546.5,1658063.0,3069665.0,,Business,Rural,Graduate,Male,Private,No
+746.0,1519489.0,227643.5,Self-employed,45.0,Single,0.0,669.0,2.0,0.33,246075.0,,1478862.5,12.0,Car,,Not Graduate,Male,Private,Yes
+747.0,817258.5,782132.5,Self-employed,49.0,Single,3.0,751.0,,0.26,1075106.5,,3560078.0,48.0,Business,Rural,Graduate,Male,Unemployed,Yes
+748.0,1093634.5,833374.0,Contract,27.0,Married,3.0,646.0,3.0,,1742500.5,1897093.5,265664.5,84.0,Car,Rural,Not Graduate,Male,Business,No
+749.0,1795672.0,621556.5,Salaried,33.0,Married,3.0,606.0,4.0,0.46,1088906.0,3030389.5,2946241.5,,Car,Rural,Graduate,Female,Private,No
+750.0,1430033.5,487035.5,Unemployed,58.0,Single,3.0,,1.0,0.31,1741825.0,4694821.5,1833114.0,24.0,Business,Rural,Not Graduate,Male,MNC,No
+751.0,599072.0,793905.5,Salaried,38.0,Married,1.0,667.0,2.0,0.41,133556.0,3241049.0,412537.5,72.0,Personal,Rural,Graduate,Male,Private,
+752.0,799309.5,502089.5,Salaried,22.0,Single,1.0,629.0,1.0,0.45,796318.0,999740.0,940585.5,12.0,Business,Urban,Graduate,,Government,No
+753.0,390632.0,932865.5,Self-employed,28.0,Married,0.0,677.0,2.0,0.46,698467.0,2067416.0,176016.0,24.0,Home,Urban,,Male,Private,No
+754.0,794484.5,173507.0,Salaried,31.0,Single,2.0,722.0,3.0,0.13,581509.0,3136153.5,1435920.0,36.0,,,Graduate,Female,Private,Yes
+755.0,1441806.5,926400.0,Salaried,53.0,Married,2.0,584.0,4.0,0.53,1011513.0,4313067.5,200816.5,12.0,Education,Urban,Not Graduate,Male,MNC,No
+756.0,1409575.5,510581.5,Salaried,58.0,Married,0.0,552.0,1.0,0.33,1331796.5,4708331.5,1207890.5,12.0,Car,Urban,,Male,Private,No
+757.0,1135322.5,530267.5,Salaried,47.0,Married,2.0,669.0,3.0,0.23,1555580.0,295772.5,2188909.5,60.0,Home,Urban,Graduate,Male,MNC,Yes
+758.0,369402.0,955350.0,Salaried,40.0,Single,0.0,554.0,2.0,0.22,1503470.0,314493.5,1725034.0,72.0,Education,Semiurban,Not Graduate,Female,Government,No
+759.0,377990.5,606406.0,Unemployed,,Single,1.0,767.0,1.0,0.34,836076.0,1186950.0,3718338.0,72.0,Education,Urban,Graduate,Male,Private,
+760.0,867342.0,703002.5,Salaried,51.0,Married,3.0,560.0,1.0,0.54,1673503.0,3220205.0,894169.0,84.0,Business,Urban,Graduate,Male,Business,No
+761.0,1601321.0,125450.0,Contract,47.0,Married,3.0,675.0,3.0,0.29,47574.5,414467.5,1175659.5,36.0,Personal,Urban,Graduate,Male,Government,Yes
+762.0,1445280.5,662858.5,Contract,52.0,Single,1.0,620.0,1.0,0.47,1588872.5,2625668.5,2129369.0,60.0,Business,Rural,Graduate,Male,Private,No
+763.0,193868.5,910477.5,Unemployed,30.0,Married,3.0,666.0,4.0,0.15,675403.5,,1339130.5,84.0,,Urban,Not Graduate,Male,Private,No
+764.0,1799146.0,298860.5,Salaried,23.0,,3.0,733.0,4.0,0.34,1334884.5,3502467.5,1059763.0,24.0,Education,,Not Graduate,Female,Private,Yes
+765.0,1144972.5,445444.0,Contract,47.0,Married,2.0,687.0,3.0,0.6,286605.0,2019455.5,961912.0,84.0,Personal,Urban,Not Graduate,Female,Unemployed,No
+766.0,407133.5,868.5,Self-employed,55.0,Married,1.0,,2.0,0.49,,3336873.5,2663207.0,24.0,Car,Semiurban,Graduate,Female,Government,No
+767.0,872456.5,555068.0,Self-employed,51.0,Married,2.0,665.0,3.0,0.21,1500671.5,4330051.5,1509163.5,36.0,Personal,Semiurban,Graduate,Male,Private,Yes
+768.0,703195.5,950718.0,Self-employed,,Married,2.0,711.0,4.0,0.35,1654492.5,871588.0,547541.0,72.0,Business,Semiurban,Graduate,Male,MNC,Yes
+769.0,349233.5,607467.5,Contract,36.0,Married,3.0,616.0,0.0,,307352.5,2674787.0,512994.0,24.0,Car,Urban,Not Graduate,Male,,No
+770.0,1014408.0,464647.5,Salaried,33.0,Married,3.0,749.0,0.0,0.3,1583468.5,1242630.5,,36.0,Business,Rural,Graduate,Male,Private,Yes
+771.0,322503.0,103448.0,Contract,55.0,Married,1.0,580.0,1.0,0.49,174279.0,3930541.5,3097071.0,84.0,Personal,Rural,Graduate,Male,Private,No
+772.0,1212812.0,311212.5,Self-employed,31.0,Married,3.0,624.0,1.0,,,,2237545.5,24.0,Car,Urban,Graduate,Male,Government,No
+,1566291.5,126994.0,Contract,,,3.0,786.0,0.0,0.21,1363159.0,,213651.0,48.0,Personal,Urban,Graduate,Female,Private,Yes
+774.0,529785.0,549953.5,Unemployed,31.0,Single,1.0,620.0,4.0,0.56,1244271.0,4022506.0,2406710.0,12.0,Home,Urban,Not Graduate,Female,Government,No
+775.0,,656875.5,Salaried,50.0,Married,3.0,786.0,1.0,0.4,497361.0,652919.0,2575102.5,84.0,Education,Rural,Graduate,Female,MNC,No
+776.0,963456.0,644041.0,Unemployed,55.0,Married,2.0,615.0,3.0,0.29,1328515.5,4820561.0,1638280.5,72.0,Car,,Graduate,Female,Private,No
+777.0,1928842.0,355409.5,Salaried,,Married,1.0,619.0,3.0,0.35,1469309.0,2202998.5,3561236.0,84.0,Education,Urban,Graduate,Male,Private,No
+778.0,1372133.5,697405.5,Salaried,58.0,Married,3.0,590.0,4.0,0.4,147162.5,1951326.5,2560917.0,48.0,Home,Urban,,Male,Private,No
+779.0,215677.5,315844.5,Salaried,51.0,Married,0.0,740.0,1.0,0.38,73340.0,2422343.0,3766684.5,36.0,Car,Rural,Graduate,Male,Government,No
+780.0,1173536.5,675500.0,Salaried,34.0,Married,1.0,709.0,3.0,0.34,1638377.0,3322784.5,865122.5,36.0,Education,Semiurban,Graduate,Male,Unemployed,Yes
+781.0,377122.0,13992.5,Self-employed,44.0,Single,1.0,569.0,1.0,0.35,1339420.0,1537438.0,1022610.5,84.0,Education,Rural,Graduate,Male,Private,No
+782.0,1019715.5,483465.0,Salaried,52.0,Married,0.0,734.0,1.0,0.19,101807.5,2481401.0,2773410.0,48.0,Car,Rural,Graduate,Male,Private,Yes
+783.0,533645.0,293360.0,Salaried,56.0,Single,3.0,775.0,3.0,0.51,969439.0,3835199.5,730408.5,84.0,,Rural,Not Graduate,Male,Private,No
+784.0,700204.0,931611.0,Unemployed,52.0,Married,3.0,727.0,0.0,0.37,297509.5,246268.0,3761666.5,12.0,Education,Urban,Graduate,Female,,No
+785.0,,943384.0,Contract,35.0,,1.0,757.0,3.0,0.17,1512927.0,4437745.5,1243016.5,12.0,Car,Urban,Not Graduate,Female,Business,Yes
+786.0,715547.5,46513.0,Contract,55.0,Married,1.0,702.0,4.0,0.48,1168422.0,1377441.0,3666614.0,60.0,Education,,Graduate,Male,Private,No
+,520231.5,306773.5,Contract,23.0,Married,3.0,689.0,2.0,0.57,931225.0,4379170.0,3201580.5,24.0,Education,,Not Graduate,Male,Private,
+788.0,1269650.5,120528.5,Contract,36.0,Married,3.0,748.0,3.0,0.57,574850.5,2822625.0,3684080.5,60.0,,Rural,Not Graduate,Male,Government,No
+789.0,767271.5,60795.0,Salaried,25.0,Single,2.0,588.0,1.0,0.28,507107.5,270972.0,153435.0,12.0,Business,Urban,Graduate,Female,Private,No
+790.0,965675.5,854314.5,Salaried,41.0,,1.0,694.0,1.0,0.17,,4232297.0,2616983.5,48.0,Home,Urban,Graduate,Male,Government,Yes
+791.0,,275218.0,Contract,30.0,Single,1.0,594.0,3.0,0.36,1577196.0,4345202.0,2790297.5,24.0,Business,Urban,Graduate,Female,Private,No
+792.0,1691066.0,95245.5,Salaried,39.0,Single,,688.0,2.0,0.16,935181.5,1475967.5,357822.0,48.0,Business,Semiurban,Graduate,Male,Unemployed,
+793.0,200430.5,735523.0,Self-employed,45.0,Married,,619.0,3.0,0.57,1757651.0,4593882.5,3835778.5,60.0,Home,Rural,Graduate,Male,Private,No
+794.0,924180.5,707055.5,Salaried,24.0,Married,,674.0,2.0,0.19,327617.5,1415558.5,2229729.0,36.0,Education,Semiurban,Graduate,Male,Unemployed,Yes
+795.0,1831956.0,939717.0,Salaried,49.0,Married,2.0,700.0,2.0,0.23,116089.5,1015469.5,1749641.5,48.0,Education,Rural,Not Graduate,Male,Private,Yes
+796.0,1549790.0,853156.5,Self-employed,39.0,Married,3.0,640.0,4.0,,1852221.0,4393645.0,728864.5,60.0,Business,Urban,Graduate,Male,,No
+797.0,1876828.5,883940.0,Self-employed,22.0,Married,3.0,787.0,1.0,0.29,1879434.0,1328708.5,1822016.5,60.0,Home,Urban,Not Graduate,Female,Private,Yes
+798.0,,106150.0,Self-employed,30.0,Married,2.0,619.0,,0.5,293746.0,4487153.5,229573.5,60.0,Education,Urban,Graduate,Male,Business,No
+799.0,1110715.0,641918.0,Self-employed,45.0,Married,1.0,715.0,2.0,0.33,701748.0,4308242.5,2533607.5,36.0,Personal,Rural,Graduate,Male,Private,Yes
+800.0,862999.5,832988.0,Salaried,40.0,Married,3.0,679.0,1.0,0.19,339101.0,2432475.5,460305.0,36.0,Car,Urban,Not Graduate,Female,Government,Yes
+801.0,1346561.0,716126.5,Salaried,39.0,Single,2.0,763.0,0.0,0.23,964035.0,3399116.0,2000059.0,84.0,Car,Rural,Graduate,Male,Business,
+802.0,946086.0,484044.0,Contract,,Single,0.0,633.0,2.0,0.35,597528.0,2466250.5,973492.0,36.0,Car,Rural,Graduate,Male,Government,No
+803.0,826522.5,74208.5,Self-employed,44.0,Single,2.0,638.0,1.0,0.17,1039015.5,3685431.5,3407801.0,24.0,Business,Urban,Not Graduate,,Government,No
+804.0,770456.0,129599.5,Salaried,31.0,,,628.0,,0.41,1594952.0,1374739.0,3857684.0,36.0,Car,Urban,Not Graduate,Female,Private,No
+805.0,643655.0,420547.0,Contract,54.0,Married,3.0,662.0,4.0,0.38,724425.5,1239639.0,1674275.0,36.0,Car,Urban,Graduate,Female,Private,Yes
+806.0,1079256.0,942708.5,Salaried,48.0,Married,2.0,,1.0,0.46,468700.5,3578702.5,3383579.5,36.0,Personal,Rural,Graduate,Male,Government,No
+807.0,404528.0,654270.0,Salaried,25.0,Married,2.0,621.0,0.0,0.57,1169387.0,4381389.5,1627086.5,48.0,Education,Urban,,Female,Private,No
+808.0,,637093.0,Salaried,25.0,,0.0,714.0,,0.56,1713936.5,1299855.0,1444894.5,36.0,Personal,Urban,Graduate,Female,Private,No
+809.0,1278239.0,226678.5,Contract,41.0,Single,2.0,598.0,3.0,0.57,303589.0,1271484.0,1811208.5,24.0,Business,Semiurban,Graduate,Male,Private,No
+810.0,1427235.0,549953.5,Self-employed,32.0,Single,2.0,601.0,0.0,0.22,,4041516.5,1768459.0,60.0,Car,Rural,Graduate,Female,Private,No
+811.0,548795.5,119756.5,Salaried,24.0,,3.0,582.0,2.0,0.17,,1307189.0,3575132.0,48.0,Education,Rural,Graduate,Male,Government,No
+812.0,580737.0,108562.5,Contract,40.0,Married,2.0,571.0,2.0,0.25,425951.0,656682.5,365349.0,12.0,Car,Rural,Not Graduate,Female,Government,No
+813.0,1283643.0,905363.0,,58.0,Married,1.0,663.0,1.0,0.55,1688171.0,1620042.0,3474096.5,36.0,Car,Semiurban,Not Graduate,Male,Unemployed,No
+814.0,383105.0,652726.0,Salaried,45.0,Married,0.0,788.0,3.0,0.59,379920.5,2832082.0,252830.0,84.0,Business,Rural,Graduate,Female,Private,No
+815.0,1002538.5,492246.5,Salaried,34.0,Married,2.0,,2.0,0.53,382429.5,779720.0,3599739.5,84.0,Car,Urban,Graduate,Male,Unemployed,No
+816.0,1890049.0,756849.5,Salaried,31.0,Married,0.0,780.0,2.0,0.16,569060.5,3462999.0,1986838.5,60.0,Home,Urban,Graduate,Female,Business,Yes
+817.0,1676591.0,6948.0,Salaried,52.0,Married,0.0,567.0,3.0,0.57,,2293226.0,374613.0,60.0,Education,Rural,Graduate,Male,Unemployed,No
+,751542.0,528048.0,Self-employed,31.0,Single,0.0,715.0,4.0,0.31,1387380.5,639795.0,2463066.0,48.0,Education,Rural,Graduate,Female,MNC,Yes
+819.0,714872.0,,,38.0,Married,2.0,667.0,2.0,0.1,1688750.0,3216634.5,1036892.5,84.0,,Rural,Graduate,,Business,Yes
+820.0,1104539.0,238548.0,Self-employed,47.0,Single,2.0,666.0,0.0,0.32,1549404.0,1515146.5,3634672.5,12.0,Business,Semiurban,Graduate,Female,Private,Yes
+821.0,281973.0,68225.5,Salaried,38.0,Married,,586.0,1.0,0.12,168875.0,1433893.5,1627086.5,72.0,Car,,Not Graduate,Female,Private,No
+822.0,233433.5,174086.0,Salaried,43.0,Married,1.0,771.0,2.0,0.37,388605.5,2044159.5,2622001.5,,Car,Urban,Not Graduate,Male,Private,No
+,1234138.5,646936.0,Salaried,31.0,Married,0.0,792.0,2.0,0.27,1112452.0,3902267.0,2624703.5,84.0,Education,Urban,Not Graduate,Female,Unemployed,Yes
+824.0,301080.0,358304.5,Salaried,41.0,Married,1.0,772.0,4.0,0.34,554392.5,3063778.5,370270.5,24.0,Business,Urban,Graduate,Male,Unemployed,Yes
+825.0,1279590.0,487421.5,Contract,25.0,Married,0.0,613.0,0.0,0.41,934023.5,3077095.5,926303.5,72.0,Business,Rural,Graduate,Female,Business,No
+826.0,1865731.0,238837.5,Salaried,43.0,,3.0,687.0,1.0,0.53,573017.0,4076546.0,1631911.5,60.0,Business,Urban,Graduate,Female,MNC,No
+827.0,418424.0,348365.0,Contract,45.0,Single,0.0,628.0,2.0,0.43,1172475.0,846884.0,2079864.5,72.0,Car,Urban,Not Graduate,Male,Unemployed,No
+828.0,711494.5,410607.5,Contract,30.0,Married,0.0,719.0,1.0,0.32,1293679.0,1449526.5,2394454.5,84.0,Business,Urban,Graduate,Female,Government,Yes
+829.0,409449.5,713810.5,Salaried,42.0,Married,2.0,672.0,3.0,0.51,,417555.5,3788107.5,60.0,Home,Urban,Graduate,Male,Business,No
+830.0,638058.0,,Contract,39.0,Single,1.0,725.0,2.0,0.55,1712199.5,4636149.5,2945180.0,72.0,Personal,Urban,Graduate,Male,Government,No
+831.0,1538789.0,943480.5,Self-employed,21.0,Married,3.0,593.0,2.0,0.16,468314.5,734751.0,,60.0,Business,Urban,Graduate,Female,Government,No
+832.0,1264536.0,796897.0,Self-employed,27.0,Married,1.0,631.0,3.0,0.37,1768362.5,120142.5,119274.0,60.0,Personal,Rural,Graduate,Female,Private,No
+833.0,1488898.5,769973.5,Self-employed,24.0,Married,3.0,636.0,4.0,0.24,303782.0,3957561.5,2735775.0,48.0,Car,Urban,Graduate,Male,Government,No
+834.0,807801.5,234302.0,Salaried,21.0,Single,0.0,774.0,2.0,0.12,1567449.5,999257.5,1210978.5,12.0,Business,Urban,Graduate,Male,Business,Yes
+835.0,806643.5,716609.0,Salaried,35.0,Single,2.0,565.0,1.0,,765534.5,3213932.5,2745714.5,60.0,Education,Semiurban,,Female,Government,No
+836.0,951779.5,823434.5,Salaried,32.0,Married,2.0,603.0,,0.53,910574.0,4698778.0,3492431.5,24.0,Car,Semiurban,Graduate,Male,MNC,No
+837.0,504502.0,506528.5,Salaried,42.0,Single,1.0,,,0.18,1705058.5,,1341929.0,84.0,Home,Urban,Graduate,Female,Private,Yes
+838.0,1580863.0,510581.5,Self-employed,42.0,Single,2.0,712.0,4.0,0.51,,4795278.0,1542842.0,84.0,Home,Urban,Not Graduate,Female,Private,No
+839.0,,271840.5,Salaried,37.0,Married,1.0,647.0,0.0,,1416523.5,,2771769.5,24.0,,Rural,Graduate,Male,,No
+840.0,555454.0,909416.0,Unemployed,49.0,Married,1.0,705.0,1.0,0.56,1083502.0,,3358200.0,36.0,Personal,Urban,Graduate,Male,Business,No
+841.0,1714805.0,373841.0,Contract,34.0,Married,3.0,551.0,1.0,0.23,74305.0,136547.5,2743495.0,60.0,Education,Urban,Graduate,Male,Private,No
+842.0,,934699.0,Salaried,40.0,Single,1.0,643.0,3.0,0.55,177849.5,4226507.0,3236127.5,60.0,,Urban,Not Graduate,Male,Government,No
+843.0,451041.0,406361.5,Salaried,53.0,Married,3.0,,4.0,0.26,7044.5,159418.0,380210.0,60.0,Home,Urban,Graduate,Female,Government,Yes
+844.0,858657.0,63786.5,Contract,35.0,Single,2.0,718.0,3.0,0.38,1741246.0,4209812.5,2199524.5,72.0,Business,Rural,Graduate,Female,Unemployed,Yes
+845.0,1172185.5,325591.0,Contract,32.0,Married,1.0,757.0,0.0,,1549693.5,1973039.0,1279783.0,60.0,Home,Semiurban,Graduate,Male,Business,Yes
+846.0,269524.5,888572.0,Contract,40.0,Single,1.0,608.0,3.0,0.12,772000.0,,,60.0,Home,Rural,Graduate,Male,Private,No
+847.0,397194.0,19975.5,Salaried,50.0,Married,0.0,618.0,4.0,0.46,1280844.5,367665.0,768236.5,24.0,Education,Rural,Graduate,Male,Government,No
+848.0,750673.5,,Salaried,58.0,Married,1.0,668.0,2.0,0.32,1555676.5,1598908.5,2653653.5,12.0,Personal,Urban,Graduate,Female,MNC,Yes
+849.0,1379757.0,240574.5,Salaried,23.0,Single,1.0,641.0,2.0,0.23,31941.5,3311783.5,3115309.5,,Education,Rural,Not Graduate,Female,Business,No
+850.0,1558764.5,657454.5,Salaried,48.0,Single,0.0,730.0,0.0,0.2,1718182.5,1310856.0,,36.0,Education,Urban,Not Graduate,Female,MNC,Yes
+851.0,1265211.5,60988.0,Contract,46.0,Single,0.0,780.0,2.0,0.43,724908.0,2584559.5,754823.0,24.0,Education,Urban,Not Graduate,Male,Private,No
+,1234138.5,297509.5,Contract,,Married,2.0,594.0,,0.1,475841.5,3235548.5,2602412.0,60.0,Home,Rural,Graduate,Female,MNC,No
+853.0,1292810.5,358883.5,Self-employed,33.0,Single,1.0,697.0,0.0,0.5,1229603.0,1207311.5,2010095.0,12.0,Business,Semiurban,Not Graduate,Male,MNC,No
+854.0,1447403.5,687369.5,Contract,33.0,Married,2.0,573.0,4.0,0.14,1295609.0,,650217.0,48.0,Home,Urban,Graduate,Female,,No
+855.0,271551.0,162023.5,Self-employed,22.0,Married,2.0,738.0,0.0,0.2,493404.5,4365177.5,395457.0,48.0,Car,Semiurban,Graduate,Female,Private,No
+856.0,1807348.5,22774.0,Salaried,57.0,,0.0,640.0,0.0,0.29,812433.5,594729.5,2980692.0,48.0,Education,Urban,Not Graduate,Female,MNC,No
+857.0,1210206.5,718539.0,,58.0,Married,3.0,643.0,1.0,0.34,278016.5,1550272.5,877860.5,60.0,Education,Urban,Graduate,Male,Business,No
+858.0,428749.5,428749.5,Unemployed,22.0,Married,2.0,607.0,1.0,0.28,1268492.5,4309111.0,1364124.0,60.0,Car,Urban,Graduate,Female,MNC,No
+859.0,1202100.5,653305.0,Salaried,56.0,Single,3.0,786.0,0.0,0.26,1308154.0,1729280.0,3787046.0,36.0,Education,Rural,Graduate,Male,Private,Yes
+860.0,1194670.0,939138.0,Unemployed,46.0,Married,1.0,704.0,2.0,0.58,1857528.5,3760508.5,892914.5,84.0,Education,Semiurban,Graduate,Female,Private,No
+861.0,944059.5,588553.5,Contract,31.0,Single,0.0,703.0,1.0,,248487.5,4665582.0,2529072.0,36.0,Education,Rural,Not Graduate,Male,Private,No
+862.0,1300144.5,825557.5,Salaried,28.0,Married,1.0,677.0,4.0,0.11,1226901.0,1848361.0,568095.5,36.0,Car,Urban,Graduate,Male,Government,Yes
+,1869012.0,228512.0,Self-employed,42.0,Married,1.0,556.0,3.0,0.32,596852.5,3876115.5,1012478.0,72.0,Home,Urban,Graduate,Male,Government,No
+864.0,1672152.0,27502.5,Contract,40.0,Married,0.0,719.0,1.0,0.54,835304.0,1952098.5,3514626.5,48.0,Education,Rural,Graduate,Female,Government,No
+865.0,272805.5,14282.0,Self-employed,,Single,1.0,596.0,0.0,,554006.5,4797304.5,236811.0,60.0,Business,Urban,Not Graduate,Male,Government,No
+866.0,882685.5,389570.5,Unemployed,49.0,Single,,602.0,2.0,0.15,1607786.5,2605210.5,1787373.0,48.0,Car,Urban,Graduate,Female,MNC,No
+867.0,622521.5,631978.5,Unemployed,46.0,Single,3.0,736.0,3.0,0.48,6272.5,2036246.5,3818987.5,36.0,Personal,Semiurban,Graduate,Female,Private,
+868.0,1673599.5,687176.5,Salaried,50.0,Single,1.0,587.0,1.0,0.4,411283.0,3897731.5,404528.0,60.0,Car,Rural,Not Graduate,Female,Private,No
+869.0,1508777.5,960947.0,Salaried,37.0,Married,0.0,746.0,,0.39,550436.0,996555.5,1618787.5,24.0,Home,Urban,Graduate,Male,MNC,Yes
+870.0,768043.5,472367.5,Unemployed,40.0,Married,2.0,764.0,2.0,0.13,1481757.5,693545.5,1100293.0,12.0,Car,Urban,Graduate,Female,Government,Yes
+871.0,205159.0,509520.0,Self-employed,36.0,Single,1.0,,2.0,0.17,829321.0,2864602.5,1358141.0,12.0,Personal,Urban,Not Graduate,Male,Government,No
+872.0,1041717.5,97658.0,Salaried,27.0,Married,3.0,775.0,0.0,0.41,1174887.5,3372482.0,1567642.5,36.0,Business,Rural,Graduate,Male,Government,No
+873.0,1316356.5,937497.5,Salaried,36.0,Married,0.0,602.0,4.0,0.2,1225164.0,3351252.0,3621355.5,84.0,Personal,Semiurban,Not Graduate,Male,Government,No
+874.0,887414.0,268752.5,Self-employed,47.0,Married,1.0,692.0,2.0,0.35,603607.5,3659376.5,2599324.0,48.0,Car,Rural,Graduate,Male,Private,Yes
+875.0,1308443.5,359462.5,,43.0,Married,1.0,773.0,3.0,0.37,718056.5,678877.5,2702193.0,24.0,Personal,Urban,Not Graduate,,Government,
+876.0,518012.0,441584.0,Contract,44.0,Married,1.0,703.0,1.0,0.24,1446149.0,,1609909.5,60.0,Car,Urban,Not Graduate,Male,Unemployed,Yes
+877.0,559410.5,557963.0,Self-employed,29.0,Married,3.0,597.0,3.0,0.57,1288275.0,2746390.0,1298890.0,84.0,Business,Semiurban,Graduate,Male,Government,No
+878.0,1651501.0,603800.5,Salaried,55.0,Married,0.0,644.0,0.0,0.52,1393460.0,2033351.5,3038013.0,48.0,Business,Semiurban,Graduate,Male,Private,No
+879.0,1516787.0,945024.5,Salaried,40.0,Married,2.0,696.0,0.0,0.46,768140.0,56163.0,1683635.5,36.0,Home,Rural,Not Graduate,Male,MNC,
+880.0,365928.0,232372.0,Contract,57.0,Married,2.0,686.0,3.0,0.14,1719726.5,4659213.0,1807348.5,,Business,Urban,,Male,Private,Yes
+881.0,1259614.5,32810.0,Salaried,37.0,Married,2.0,613.0,4.0,0.15,1907033.0,2527238.5,2079092.5,36.0,Education,Rural,Graduate,Female,Private,No
+882.0,528434.0,271840.5,Salaried,51.0,Single,0.0,642.0,0.0,0.35,1318672.5,1498741.5,2818186.0,72.0,,Semiurban,Graduate,Male,MNC,No
+883.0,522740.5,240864.0,Salaried,28.0,Married,2.0,731.0,0.0,0.18,639698.5,1608848.0,1043551.0,12.0,,Rural,Not Graduate,Male,Private,Yes
+884.0,351742.5,575333.0,Self-employed,35.0,Married,3.0,674.0,3.0,0.59,1334402.0,,1436885.0,84.0,,Rural,Not Graduate,,Unemployed,No
+,1616857.5,511353.5,Unemployed,51.0,Single,0.0,799.0,0.0,0.18,438206.5,1953449.5,264410.0,12.0,Business,Urban,Graduate,Male,Government,Yes
+886.0,489448.0,956990.5,Salaried,50.0,,1.0,728.0,4.0,0.34,760034.0,295290.0,3003176.5,48.0,Home,Urban,Graduate,Male,Business,No
+887.0,371911.0,730891.0,Salaried,40.0,Married,3.0,588.0,,0.28,1284511.5,1325041.5,1179037.0,24.0,Home,Urban,Not Graduate,Male,Government,No
+888.0,,162988.5,Self-employed,59.0,Single,,553.0,4.0,0.42,1407742.0,1186371.0,,60.0,Home,Semiurban,Not Graduate,Female,Private,No
+889.0,821601.0,315265.5,Unemployed,32.0,Married,2.0,675.0,1.0,0.16,1606532.0,1999383.5,2287532.5,36.0,Education,Rural,Graduate,Female,,Yes
+890.0,454322.0,425179.0,Salaried,37.0,Single,3.0,552.0,,0.32,1194670.0,4539553.0,3447173.0,60.0,Business,Rural,Not Graduate,Female,Unemployed,No
+891.0,1321471.0,815714.5,Salaried,50.0,Single,0.0,797.0,4.0,0.24,953130.5,4739694.0,,12.0,Home,Urban,Not Graduate,Female,MNC,Yes
+892.0,1112066.0,139153.0,Salaried,,Single,3.0,613.0,1.0,0.54,1719437.0,2540362.5,3080376.5,24.0,Education,Semiurban,Graduate,Female,Business,No
+893.0,816004.0,829610.5,Contract,39.0,Married,1.0,578.0,2.0,0.12,491860.5,2180610.5,3351348.5,24.0,Personal,Semiurban,Not Graduate,Female,Unemployed,No
+894.0,599458.0,428170.5,Salaried,31.0,Married,0.0,665.0,,0.56,1741246.0,183639.5,2336361.5,60.0,Car,Urban,Graduate,Female,Private,No
+895.0,1469116.0,524477.5,,54.0,Married,3.0,560.0,4.0,0.52,1808217.0,1404171.5,3050751.0,12.0,Business,Semiurban,Graduate,Male,Private,No
+896.0,962105.0,813977.5,Self-employed,27.0,Married,3.0,646.0,0.0,0.25,623486.5,2677971.5,1794996.5,60.0,Business,Urban,Graduate,Male,Private,No
+897.0,1825780.0,396325.5,Contract,54.0,Married,3.0,651.0,3.0,0.49,679746.0,2342827.0,2778814.0,48.0,Personal,Urban,Not Graduate,Male,Business,No
+898.0,,54040.0,Salaried,40.0,Married,3.0,735.0,0.0,0.12,530460.5,2475514.5,676175.5,24.0,Business,Urban,Not Graduate,Male,MNC,No
+899.0,1188301.0,847752.5,Contract,58.0,Married,0.0,752.0,1.0,0.58,1326971.5,1461106.5,2076101.0,24.0,Business,Semiurban,Graduate,Female,Business,No
+900.0,962394.5,,Salaried,44.0,Married,1.0,704.0,0.0,0.36,897836.0,229380.5,1811884.0,48.0,Business,Semiurban,Graduate,Male,Unemployed,Yes
+901.0,1020680.5,176209.0,Self-employed,30.0,Married,3.0,774.0,0.0,0.25,,3243847.5,296834.0,12.0,Business,Urban,Graduate,Female,Business,Yes
+902.0,971755.0,736198.5,,52.0,Married,0.0,570.0,0.0,0.28,1067097.0,4549782.0,2542775.0,,Education,Rural,Not Graduate,Male,Private,No
+903.0,1029269.0,803362.5,Contract,35.0,Single,1.0,588.0,2.0,0.13,1086590.0,2649118.0,3856526.0,84.0,Education,Rural,Not Graduate,Male,Private,No
+904.0,540400.0,302817.0,Salaried,57.0,Married,3.0,,2.0,0.59,1791329.5,2192962.5,1668678.0,72.0,Car,Semiurban,Graduate,,Unemployed,No
+905.0,847559.5,742374.5,Contract,40.0,Married,1.0,,3.0,0.12,61181.0,919066.0,3137215.0,72.0,Business,Urban,Graduate,Male,Private,Yes
+906.0,1469309.0,797476.0,Contract,23.0,Single,1.0,595.0,1.0,0.43,970500.5,4631903.5,2798500.0,72.0,Personal,Rural,Graduate,,Government,No
+907.0,1075589.0,756753.0,Self-employed,57.0,Married,0.0,615.0,0.0,0.32,1287792.5,1128857.0,3028459.5,36.0,Home,Rural,Graduate,Male,Private,
+908.0,672701.5,648576.5,Contract,28.0,Married,1.0,640.0,0.0,0.57,979185.5,4182213.5,,84.0,Car,,Graduate,Male,Private,No
+909.0,1494785.0,675693.0,Contract,43.0,Married,0.0,713.0,0.0,0.22,1795093.0,2043387.5,2495007.5,36.0,Home,Urban,Not Graduate,Male,,Yes
+910.0,1890338.5,407712.5,Salaried,31.0,Single,3.0,752.0,0.0,0.37,134038.5,1188301.0,2439616.5,12.0,Home,Rural,Graduate,Female,Private,Yes
+911.0,1442771.5,287377.0,Salaried,28.0,Married,1.0,660.0,2.0,0.34,1261351.5,4265010.5,563656.5,48.0,Business,Urban,Graduate,Male,Unemployed,Yes
+912.0,1381108.0,711494.5,Unemployed,49.0,,1.0,631.0,3.0,0.45,1092573.0,228222.5,3152462.0,60.0,Personal,Semiurban,Graduate,Male,Government,No
+913.0,385035.0,570025.5,Salaried,50.0,Married,2.0,672.0,4.0,0.13,412634.0,3089640.5,2694087.0,84.0,Home,Urban,Graduate,Male,Business,No
+914.0,704353.5,588360.5,Contract,30.0,Single,3.0,742.0,1.0,0.2,,3100159.0,1779749.5,12.0,Home,Semiurban,Graduate,,Business,Yes
+915.0,1447210.5,545804.0,Unemployed,59.0,Married,3.0,740.0,0.0,0.21,120528.5,4185398.0,3208625.0,60.0,Car,,,Male,Business,Yes
+916.0,1493048.0,866956.0,Salaried,48.0,,2.0,648.0,3.0,0.47,1701198.5,4258931.0,281973.0,12.0,Personal,Urban,Graduate,Male,Unemployed,No
+,,410993.5,Self-employed,56.0,Single,2.0,584.0,4.0,0.19,795642.5,3649919.5,3182184.0,36.0,Personal,,Not Graduate,Male,Private,No
+918.0,652050.5,799599.0,Salaried,33.0,Married,0.0,708.0,3.0,0.39,1071343.0,542523.0,1253631.5,72.0,Home,Rural,Graduate,Female,Private,Yes
+919.0,1196117.5,569446.5,Self-employed,52.0,Single,0.0,705.0,2.0,0.21,1565809.0,2947110.0,3847358.5,48.0,Personal,Rural,Not Graduate,Male,Private,Yes
+920.0,1760256.5,899862.5,Salaried,56.0,Married,1.0,652.0,4.0,0.53,1021742.0,4779066.0,2290234.5,36.0,Car,Urban,Graduate,Male,MNC,No
+921.0,732242.0,474490.5,Salaried,57.0,Single,1.0,678.0,3.0,0.57,,3913171.5,335144.5,48.0,Car,,Graduate,Male,Unemployed,No
+922.0,1867275.0,813398.5,Self-employed,46.0,Married,1.0,574.0,2.0,0.36,673184.0,188078.5,878922.0,84.0,Car,Rural,Graduate,Male,Private,No
+923.0,670096.0,244145.0,Contract,42.0,Single,1.0,592.0,3.0,0.28,451137.5,4766714.0,2867497.5,60.0,Business,Urban,Not Graduate,Male,Business,No
+924.0,1485617.5,189140.0,Contract,24.0,Single,0.0,779.0,3.0,0.22,,4130200.0,3204765.0,12.0,Home,Rural,Graduate,Female,Private,Yes
+925.0,1840448.0,679842.5,Self-employed,51.0,Married,3.0,633.0,4.0,0.12,767464.5,3079508.0,3697590.5,24.0,Personal,Urban,Graduate,Female,Private,No
+926.0,602449.5,101132.0,Salaried,38.0,Married,1.0,744.0,2.0,0.23,422380.5,3103536.5,3315933.0,24.0,Car,Rural,Not Graduate,Male,Business,No
+927.0,1149894.0,556998.0,Self-employed,58.0,Married,3.0,,0.0,0.43,1022803.5,4283345.5,568288.5,48.0,Home,Rural,,Female,Private,No
+928.0,1156456.0,,Salaried,44.0,Married,1.0,600.0,1.0,0.37,681097.0,1593022.0,2414526.5,72.0,Home,Semiurban,Not Graduate,Male,Government,No
+929.0,,286026.0,Unemployed,43.0,Married,2.0,679.0,4.0,0.57,1660379.0,4399628.0,888958.0,72.0,Business,Rural,Graduate,Female,Business,No
+930.0,1078966.5,688720.5,Contract,42.0,,1.0,759.0,2.0,0.3,1147771.0,4218304.5,3181701.5,48.0,Personal,Urban,Graduate,Female,MNC,Yes
+931.0,432513.0,92929.5,Contract,22.0,Married,1.0,675.0,3.0,0.45,283613.5,185183.5,405396.5,36.0,Personal,,Graduate,Female,Government,No
+932.0,284771.5,51724.0,,51.0,,1.0,785.0,2.0,0.34,99491.5,4110417.5,2445889.0,24.0,Car,Rural,Not Graduate,Male,Business,No
+,393623.5,708310.0,Salaried,31.0,Married,0.0,741.0,1.0,0.36,985072.0,928040.5,3759447.0,36.0,Car,Rural,Graduate,Male,Government,No
+934.0,455190.5,692773.5,Contract,48.0,Single,2.0,751.0,1.0,0.23,54233.0,,1419997.5,60.0,Home,Semiurban,,Male,Private,Yes
+935.0,1128278.0,768815.5,Salaried,52.0,Married,1.0,618.0,0.0,0.33,1035445.0,3213257.0,644716.5,24.0,Personal,Rural,Graduate,Male,Business,No
+936.0,898511.5,842831.0,Unemployed,25.0,Married,1.0,558.0,,0.34,1613866.0,3919540.5,3613539.0,60.0,Personal,Rural,Graduate,Male,Private,No
+937.0,267112.0,81542.5,Salaried,58.0,Married,3.0,551.0,1.0,0.45,1558668.0,668648.5,1709980.0,12.0,Car,,Not Graduate,Male,Private,No
+938.0,722785.0,557480.5,,30.0,Married,2.0,711.0,4.0,0.57,1350807.0,3581790.5,257365.5,36.0,Education,Urban,Graduate,Male,Government,No
+939.0,1692031.0,292974.0,Contract,44.0,Married,1.0,737.0,4.0,0.26,1802620.0,,2813168.0,48.0,Home,Urban,Graduate,Female,MNC,
+940.0,834242.5,573885.5,Salaried,55.0,Married,3.0,779.0,3.0,0.12,1603637.0,4252079.5,888186.0,,Personal,Urban,Graduate,Male,Private,Yes
+941.0,697888.0,240671.0,Salaried,43.0,,3.0,738.0,0.0,0.35,898222.0,2040010.0,3752885.0,36.0,Business,Rural,Graduate,Female,Private,No
+942.0,1301302.5,262383.5,Contract,37.0,Single,0.0,708.0,3.0,0.37,927268.5,1754852.5,2464320.5,48.0,Business,Urban,Graduate,Male,Private,Yes
+943.0,752410.5,181806.0,Salaried,21.0,Married,3.0,559.0,0.0,0.18,1705637.5,3659666.0,,12.0,Education,Urban,Graduate,Female,Private,No
+944.0,1384003.0,419678.5,Salaried,51.0,Single,1.0,663.0,1.0,0.48,841480.0,2339160.0,3352506.5,24.0,Car,Urban,Not Graduate,Male,Government,No
+945.0,968667.0,499773.5,Salaried,51.0,Single,0.0,625.0,4.0,0.59,981598.0,2108042.5,2089611.0,60.0,Car,Urban,Not Graduate,,Private,No
+946.0,1737193.0,637865.0,Salaried,54.0,Single,,713.0,4.0,0.57,1395100.5,890502.0,232372.0,12.0,,Urban,Graduate,Female,MNC,No
+947.0,1455895.5,620495.0,Contract,29.0,Single,1.0,795.0,1.0,0.2,283613.5,2092699.0,1898348.0,72.0,Business,Rural,Not Graduate,Male,MNC,Yes
+948.0,663244.5,690361.0,Self-employed,42.0,Married,2.0,634.0,3.0,0.54,1384292.5,1150280.0,214037.0,48.0,Car,Urban,Graduate,Male,Business,No
+949.0,335916.5,626092.0,Salaried,33.0,Married,3.0,598.0,3.0,0.45,1559247.0,717188.0,3584492.5,24.0,Business,,Graduate,Male,Government,No
+950.0,,457120.5,Salaried,45.0,Single,0.0,788.0,2.0,0.33,524477.5,4339701.5,,24.0,Education,Rural,Graduate,Male,Private,Yes
+951.0,1584723.0,629662.5,Salaried,38.0,Married,2.0,619.0,0.0,0.37,520328.0,597238.5,491957.0,84.0,,Semiurban,Graduate,Male,Private,
+952.0,1779267.0,371525.0,Salaried,32.0,Married,1.0,789.0,3.0,0.52,769298.0,,831733.5,84.0,Personal,Urban,Graduate,Male,Government,No
+953.0,930549.5,66488.5,Salaried,37.0,,3.0,726.0,1.0,0.34,,3272315.0,1248613.5,12.0,Education,Urban,,Female,,Yes
+954.0,1708822.0,499387.5,Salaried,35.0,Single,3.0,680.0,3.0,0.29,1851256.0,2916809.0,1855309.0,24.0,Business,Urban,Not Graduate,Female,Business,Yes
+955.0,1280651.5,834532.0,Salaried,35.0,Single,0.0,751.0,4.0,0.35,1428103.5,734751.0,2540073.0,48.0,Education,Urban,Graduate,Male,Private,Yes
+956.0,1854344.0,490027.0,Contract,,Single,3.0,682.0,0.0,0.39,1848843.5,4537526.5,1725227.0,12.0,Personal,Semiurban,Graduate,Female,Private,Yes
+957.0,1408900.0,525732.0,Salaried,59.0,Single,3.0,787.0,2.0,0.19,1452518.0,2048116.0,729540.0,60.0,Home,Rural,,Male,Private,Yes
+958.0,1254307.0,113773.5,Self-employed,33.0,Married,3.0,767.0,0.0,0.55,583246.0,1738254.5,3790327.0,12.0,Personal,Rural,Graduate,Male,Private,No
+959.0,1572467.5,875641.0,Self-employed,37.0,Single,3.0,738.0,4.0,0.44,1917551.5,2069539.0,3590958.0,12.0,Business,Urban,Graduate,Male,Unemployed,No
+960.0,,618179.0,,52.0,Married,1.0,762.0,4.0,0.42,1391047.5,,2923853.5,60.0,Personal,Rural,Graduate,Female,Private,No
+961.0,1773670.0,829031.5,Self-employed,29.0,Married,2.0,786.0,4.0,0.15,1666941.0,3828444.5,824399.5,72.0,,Urban,Graduate,Male,MNC,
+962.0,1015083.5,666525.5,Self-employed,40.0,Single,,639.0,4.0,0.4,1337297.0,3633900.5,2407289.0,84.0,Car,Rural,Graduate,,,No
+963.0,511450.0,849200.0,Contract,46.0,Married,1.0,779.0,1.0,0.16,1695698.0,466963.5,3159410.0,48.0,Education,Rural,,Male,MNC,No
+964.0,841673.0,158067.0,Self-employed,47.0,Married,0.0,,2.0,0.14,544646.0,3543962.5,796414.5,72.0,Business,Urban,Not Graduate,,Government,Yes
+965.0,889537.0,547251.5,Self-employed,41.0,Married,3.0,575.0,4.0,0.36,1652466.0,2914589.5,,72.0,,Urban,Graduate,Female,Unemployed,No
+966.0,487711.0,668552.0,Contract,38.0,Single,1.0,621.0,4.0,0.3,1713164.5,53750.5,3262954.5,72.0,Personal,Semiurban,Not Graduate,Male,Private,No
+967.0,1502987.5,133363.0,Self-employed,33.0,Married,3.0,554.0,3.0,0.39,1774056.0,2959269.0,2762988.0,84.0,Home,Urban,Graduate,Female,Government,No
+968.0,962105.0,135389.5,Salaried,36.0,Single,1.0,564.0,2.0,0.14,1723007.5,3608038.5,295000.5,36.0,Business,Urban,Graduate,Male,Private,No
+969.0,399799.5,,Salaried,29.0,Married,1.0,672.0,0.0,0.32,1729280.0,4603050.0,3322591.5,84.0,Personal,Urban,Not Graduate,,Government,No
+970.0,1110039.5,317678.0,Salaried,32.0,Single,0.0,693.0,2.0,0.19,1611743.0,3243075.5,3709074.0,72.0,Education,Urban,Graduate,Male,Government,
+971.0,1654878.5,869561.5,Contract,58.0,Single,2.0,550.0,2.0,0.59,497264.5,2371777.0,1873354.5,36.0,Education,Rural,Graduate,Male,Business,No
+972.0,1367887.5,40433.5,Contract,39.0,Married,2.0,693.0,2.0,0.38,182771.0,891949.5,3013212.5,60.0,Business,Rural,Graduate,Female,Private,Yes
+973.0,999354.0,435890.5,Unemployed,27.0,Married,,714.0,4.0,0.44,771131.5,926014.0,3810302.5,84.0,Personal,Rural,Not Graduate,Male,Private,No
+974.0,1647255.0,318643.0,Self-employed,55.0,Married,0.0,552.0,4.0,0.26,1489863.5,675307.0,356664.0,48.0,Education,Urban,Not Graduate,Male,Business,No
+975.0,272323.0,758200.5,Salaried,38.0,Single,3.0,729.0,1.0,0.15,913565.5,977448.5,1650246.5,72.0,Business,,Not Graduate,Male,Government,No
+976.0,1865055.5,,Salaried,36.0,Single,3.0,596.0,0.0,0.59,572727.5,49215.0,948691.5,24.0,Business,Semiurban,Graduate,Male,Private,No
+977.0,1571888.5,,Self-employed,59.0,Single,1.0,644.0,3.0,0.24,1650825.5,1119014.0,1934535.5,60.0,Home,Urban,Not Graduate,Male,Unemployed,No
+978.0,786475.0,549374.5,Self-employed,24.0,Married,2.0,562.0,2.0,0.31,224748.5,1251991.0,579386.0,36.0,Education,Urban,Graduate,Female,Unemployed,No
+979.0,620012.5,,Unemployed,45.0,Single,0.0,669.0,0.0,0.42,900055.5,109720.5,2287532.5,84.0,Personal,Semiurban,Not Graduate,Female,MNC,No
+980.0,1740088.0,197246.0,Salaried,52.0,Single,2.0,757.0,0.0,0.11,267305.0,4484162.0,2172118.5,48.0,,Urban,Graduate,Male,MNC,Yes
+981.0,405107.0,149478.5,Self-employed,33.0,Single,3.0,604.0,1.0,0.51,467639.0,2692060.5,3683405.0,12.0,Education,Urban,Graduate,Male,Private,No
+982.0,526118.0,960754.0,Self-employed,37.0,Single,2.0,784.0,3.0,0.37,1606821.5,450269.0,1511383.0,48.0,Education,Urban,Graduate,Male,Unemployed,Yes
+983.0,1071729.0,592510.0,Self-employed,57.0,Married,3.0,698.0,2.0,0.24,1570634.0,859429.0,3829120.0,48.0,Business,Urban,Not Graduate,Female,Government,Yes
+984.0,1530393.5,358594.0,Self-employed,26.0,Married,0.0,615.0,3.0,0.13,1412084.5,2105437.0,134521.0,72.0,Car,Urban,Not Graduate,Male,Private,No
+985.0,1900278.0,432416.5,Contract,39.0,Single,0.0,731.0,1.0,0.18,1315102.0,4173239.0,3605722.5,,Car,Urban,,Male,,Yes
+986.0,1033032.5,762157.0,Salaried,33.0,Single,1.0,704.0,4.0,0.55,54908.5,256111.0,1112066.0,84.0,Home,Rural,Graduate,Female,Private,No
+987.0,1168808.0,631882.0,Contract,46.0,Married,1.0,715.0,0.0,0.44,190394.5,3257647.0,3290360.5,84.0,Education,Urban,Not Graduate,Male,Government,
+988.0,660156.5,221274.5,Self-employed,34.0,Married,2.0,639.0,2.0,0.22,272323.0,2335686.0,2670444.5,36.0,Car,Semiurban,Graduate,Male,Private,No
+989.0,1675047.0,466770.5,Contract,51.0,Married,0.0,735.0,4.0,0.13,26055.0,3370552.0,1752054.0,84.0,Home,Urban,,Female,Government,Yes
+990.0,,748647.0,Contract,24.0,Married,0.0,611.0,1.0,0.45,1574880.0,2948268.0,255242.5,36.0,Business,Semiurban,Not Graduate,Male,Government,No
+991.0,633619.0,655524.5,Salaried,59.0,Married,1.0,651.0,3.0,0.39,737356.5,4622736.0,2899728.5,72.0,,Semiurban,Graduate,Male,Government,Yes
+992.0,1291363.0,737067.0,Salaried,28.0,Single,3.0,723.0,,0.3,861745.0,997424.0,1043647.5,72.0,Personal,Rural,Graduate,Male,Private,Yes
+993.0,1924113.5,771324.5,Unemployed,,Single,2.0,766.0,2.0,0.28,644620.0,4539070.5,274832.0,24.0,Business,Semiurban,Graduate,Male,Government,Yes
+994.0,1601514.0,579675.5,Self-employed,33.0,Married,2.0,688.0,4.0,0.21,121300.5,1563879.0,3409248.5,24.0,Home,Rural,Graduate,Male,Government,Yes
+,270586.0,534803.0,Unemployed,,Married,1.0,749.0,4.0,0.43,796125.0,3361191.5,,60.0,Business,Semiurban,Graduate,Female,Private,No
+996.0,,877378.0,Salaried,58.0,Married,0.0,557.0,0.0,0.59,518205.0,4203829.5,802011.5,72.0,Personal,,Not Graduate,Male,Unemployed,No
+997.0,316423.5,613354.0,Self-employed,58.0,Married,1.0,646.0,3.0,0.19,,1771836.5,2177329.5,12.0,Business,Urban,Graduate,Female,Government,No
+998.0,1466028.0,813784.5,Contract,48.0,Single,1.0,666.0,1.0,0.4,828066.5,3988827.5,1563589.5,24.0,Home,Rural,Graduate,Male,MNC,No
+999.0,876509.5,712170.0,Unemployed,50.0,Single,1.0,748.0,3.0,0.31,1301881.5,862034.5,992985.0,36.0,Personal,Urban,Graduate,Male,Private,Yes
+1000.0,1263474.5,230152.5,Salaried,23.0,Married,1.0,613.0,3.0,0.32,1200074.0,2491244.0,3456437.0,48.0,Personal,Semiurban,Graduate,,Private,No
